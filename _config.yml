@@ -19,7 +19,7 @@ remote_theme: just-the-docs/just-the-docs
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "Copyright &copy; 2023 Jean-Marc Viglino - <a href=\"https://github.com/Viglino/Macarte-MI/blob/main/LICENSE.txt\">CC-by-4.0.</a>
+footer_content: "Copyright &copy; 2023 Jean-Marc Viglino - <a href=\"https://github.com/Viglino/Macarte-MI/blob/main/LICENSE.txt\">CC-by-4.0.</a>"
 
 toc:
   enabled: true
