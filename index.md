@@ -1,8 +1,9 @@
 ---
-layout: home
+layout: default
 permalink: /
 title: Ma carte - Modèle d'interface
 author: Viglino
+nav_order: 1
 cover: https://macarte.ign.fr/image/voir/eqb6228.jpeg
 ---
 
