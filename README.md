@@ -2,7 +2,7 @@
 
 ![](https://macarte.ign.fr/image/voir/eqb6228.jpeg)
 
-*80% des décisions que les gens prennent ont une référence spatiale ?*
+*80% des décisions que les gens prennent ont une référence spatiale.*
 
 Les cartes géographiques fournissent une représentation graphique du monde réel qui permet au lecteur de voir la localisation des objets ou des phénomènes qui l'intéressent.  
 Elles sont une des formes de l'information géographique, ensemble plus vaste qui inclut aussi les photographies aériennes et les images satellitales, les informations chiffrées ou textuelles de tous types et plus généralement toute information localisée à la surface de la Terre.  
