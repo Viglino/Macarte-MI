@@ -11,6 +11,19 @@ p.idea, blockquote.idea {
   padding: 0.8rem;
 }
 
+blockquote.note > p:last-child,
+blockquote.warning > p:last-child,
+blockquote.hightlight > p:last-child,
+blockquote.idea > p:last-child {
+  margin-bottom: 0;
+}
+blockquote.note > p:first-child,
+blockquote.warning > p:first-child,
+blockquote.hightlight > p:first-child,
+blockquote.idea > p:first-child {
+  margin-top: 0;
+}
+
 p.note, blockquote.note {
   background: rgba(114, 83, 237, 0.2);
   border-left: 4px solid #381885;
