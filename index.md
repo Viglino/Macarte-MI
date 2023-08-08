@@ -14,9 +14,6 @@ cover: https://macarte.ign.fr/image/voir/eqb6228.jpeg
 {: .note }
 > 80% des décisions que les gens prennent ont une référence spatiale ?
 
-Les cartes géographiques fournissent une représentation graphique du monde réel qui permet au lecteur de voir la localisation des objets ou des phénomènes qui l'intéressent.  
-Elles sont une des formes de l'information géographique, ensemble plus vaste qui inclut aussi les photographies aériennes et les images satellitales, les informations chiffrées ou textuelles de tous types et plus généralement toute information localisée à la surface de la Terre.  
-
 Les cartes et l'information géographique servent à exprimer et à transmettre les connaissances relatives à l'espace terrestre et à notre cadre de vie. Elles constitue la base de la planification et des décisions de toutes sortes. 
 Elles contribuent ainsi à éclairer les choix et les décisions qui sont pris quotidiennement, aussi bien par les collectivités que par les individus.
 
