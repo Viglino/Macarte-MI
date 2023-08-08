@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 1 - Initiation à la conception
+permalink: /chap-1/
 nav_order: 1
 has_children: true
 author: Viglino
