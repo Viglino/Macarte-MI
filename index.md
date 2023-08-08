@@ -7,10 +7,11 @@ nav_order: 0
 cover: https://macarte.ign.fr/image/voir/eqb6228.jpeg
 ---
 # Ma carte - Modèle d'interface
+*Modèles pour créer des conceptions efficaces et raconter des histoires avec des cartes.*
 
 ![](https://macarte.ign.fr/image/voir/eqb6228.jpeg)
 
-{: .highlight }
+{: .note }
 > 80% des décisions que les gens prennent ont une référence spatiale ?
 
 Les cartes géographiques fournissent une représentation graphique du monde réel qui permet au lecteur de voir la localisation des objets ou des phénomènes qui l'intéressent.  
@@ -27,5 +28,3 @@ Le mouvement Opendata, avec la mise à disposition de plus en plus [de données 
 
 {: .idea }
 Cette publication vous donne un aperçu des possibilités offertent pour manipuler ces cartes et ces données. Elle montre comment bénéficier de la géoinformation en tant qu'individus, en tant que société, en politique, dans les affaires, dans la recherche et dans l'éducation.
-
-[Ma carte - MI](https://viglino.github.io/Macarte-MI/)
