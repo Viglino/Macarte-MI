@@ -9,8 +9,10 @@ date: 2023-08-07
 ---
 # Chapitre 2 - L'art du croquis
 
+![](/Macarte-MI/assets/banner/napoleon.jpg)
+
 {: .note }
 > Un bon croquis vaut mieux qu'un long discours.
 >
-> {: right }
+> {: .right }
 > Napoléon BONAPARTE
