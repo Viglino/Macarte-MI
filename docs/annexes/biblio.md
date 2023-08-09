@@ -1,6 +1,7 @@
 ---
 layout: biblio
 title: Bibliographie
+permalink: /annexes/biblio
 parent: Annexes
 nav_order: 1
 author: Viglino
