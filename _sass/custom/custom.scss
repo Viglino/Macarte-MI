@@ -1,4 +1,8 @@
-
+@media (min-width: 50rem) {
+  .nav-list .nav-list-item .nav-list-link {
+    padding-left: 1rem;
+  }
+}
 
 p.note, blockquote.note,
 p.warning, blockquote.warning,
@@ -73,6 +77,6 @@ table.noborder * {
   border: 0;
 }
 
-p.left {
+p.right {
   text-align: right;
 }
