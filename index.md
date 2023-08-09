@@ -10,11 +10,13 @@ image: /assets/banner/macarte.jpg
 # Ma carte - Modèle d'interface
 *Des modèles pour créer des conceptions efficaces et raconter des histoires avec des cartes.*
 
-![](/Macarte-MI/assets/banner/macarte.jpg))
+![](/Macarte-MI/assets/banner/macarte.jpg)
 
 {: .note }
 > 80% des décisions que les gens prennent ont une référence spatiale.
-> [Fernandez-Falcon et al. (1993)](/Macarte-MI/annexes/biblio#fernandez-falcon-et-al-1993){: .right }
+>
+> {: .right }
+> [Fernandez-Falcon et al. (1993)](/Macarte-MI/annexes/biblio#fernandez-falcon-et-al-1993)
 
 Les cartes et l'information géographique servent à exprimer et à transmettre les connaissances relatives à l'espace terrestre et à notre cadre de vie. Elles constitue la base de la planification et des décisions de toutes sortes. 
 Elles contribuent ainsi à éclairer les choix et les décisions qui sont pris quotidiennement, aussi bien par les collectivités que par les individus.

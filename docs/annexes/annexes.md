@@ -8,3 +8,5 @@ author: Viglino
 date: 2023-08-09
 ---
 # Annexes
+
+![](/Macarte-MI/assets/banner/fantasy.jpg)
