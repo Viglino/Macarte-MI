@@ -80,3 +80,9 @@ table.noborder * {
 p.right {
   text-align: right;
 }
+
+img.avatar {
+  width: 2em;
+  border-radius: 50%;
+  overflow: hidden;
+}

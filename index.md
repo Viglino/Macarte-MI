@@ -4,12 +4,13 @@ permalink: /
 title: Ma carte - Modèle d'interface
 author: Viglino
 nav_order: 0
-cover: https://macarte.ign.fr/image/voir/eqb6228.jpeg
+summary : Des modèles pour créer des conceptions efficaces et raconter des histoires avec des cartes.
+image: /assets/banner/macarte.jpg
 ---
 # Ma carte - Modèle d'interface
-*Modèles pour créer des conceptions efficaces et raconter des histoires avec des cartes.*
+*Des modèles pour créer des conceptions efficaces et raconter des histoires avec des cartes.*
 
-![](https://macarte.ign.fr/image/voir/eqb6228.jpeg)
+![](/Macarte-MI/assets/banner/macarte.jpg))
 
 {: .note }
 > 80% des décisions que les gens prennent ont une référence spatiale.

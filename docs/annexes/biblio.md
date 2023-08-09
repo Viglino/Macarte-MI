@@ -24,3 +24,17 @@ Lecture de carte. 2005. ENSG - [PDF](http://cours-fad-public.ensg.eu/course/view
 
 ## Mericskay, 2016
 B. Mericskay. La cartographie a l'heure du Géoweb : Retour sur les nouveaux modes de représentation spatiale des données numériques. Cartes & géomatique, 229-230:37–50, 2016 - [PDF](http://lecfc.fr/new/articles/229-article-6.pdf)
+
+## Kraak et al. 2020
+La cartographie pour un monde durable. Menno-Jan Kraak, Robert E. Roth, Britta Ricker, Ayako Kagawa and Guillaume Le Sourd. UN, International Cartographic Association, 2020 - [PDF](https://digitallibrary.un.org/record/3898826)
+
+## Chopin et al. 2020
+Les story maps : un outil de narration cartographique innovant ?  Cyrille Chopin, Jean-Christophe Fichet, Sylvain Genevois, Mathieu Merlet, Cédric Ridel. Cartographie(s) numérique(s). 2018 [voir en ligne](https://cartonumerique.blogspot.com/2018/11/les-story-maps-un-outil-de-narration.html)
+
+# Resources et médias
+
+## Les géographies imaginaires
+Exposition interactive de la BnF - [voir en ligne](https://fantasy.bnf.fr/fr/transmettre/les-geographies-imaginaires/)
+
+## Mapshaper
+Un outil pour éditer, convertir, simplifier (et plus si affinités) des données géographiques - [voir en ligne](https://mapshaper.org/)
