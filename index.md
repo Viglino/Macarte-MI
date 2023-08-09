@@ -4,7 +4,7 @@ permalink: /
 title: Ma carte - Modèle d'interface
 author: Viglino
 nav_order: 0
-summary : Des modèles pour créer des conceptions efficaces et raconter des histoires avec des cartes.
+description: Des modèles pour créer des conceptions efficaces et raconter des histoires avec des cartes.
 image: /assets/banner/macarte.jpg
 ---
 # Ma carte - Modèle d'interface

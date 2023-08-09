@@ -8,7 +8,7 @@ description: >
   
 version:          1.0
 
-url:              'https://viglino.github.io/Macarte-MI'
+url:              'https://viglino.github.io'
 baseurl:          '/Macarte-MI'
 rss:              RSS
 
