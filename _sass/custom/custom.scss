@@ -15,15 +15,24 @@ p.idea, blockquote.idea {
   padding: 0.8rem;
 }
 
+.note a,
+.warning a {
+  text-decoration-color: transparent;
+}
+
+blockquote > p {
+  margin: 0.15em 0;
+}
+
 blockquote.note > p:last-child,
 blockquote.warning > p:last-child,
-blockquote.hightlight > p:last-child,
+blockquote.highlight > p:last-child,
 blockquote.idea > p:last-child {
   margin-bottom: 0;
 }
 blockquote.note > p:first-child,
 blockquote.warning > p:first-child,
-blockquote.hightlight > p:first-child,
+blockquote.highlight > p:first-child,
 blockquote.idea > p:first-child {
   margin-top: 0;
 }
@@ -47,6 +56,7 @@ p.idea::before, blockquote.idea::before {
   line-height: 1em;
   margin-right: 0.3em;
   margin-top: -0.1em;
+  margin-bottom: -0.2em;
 }
 
 p.note::before, blockquote.note::before {
@@ -57,6 +67,8 @@ p.note::before, blockquote.note::before {
 p.warning::before, blockquote.warning::before {
   content: "\f071";
   color: #dd2e2e;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 p.idea::before, blockquote.idea::before {
