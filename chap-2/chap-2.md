@@ -10,7 +10,6 @@ date: 2023-08-07
 # Chapitre 2 - L'art du croquis
 
 ![](/Macarte-MI/assets/banner/napoleon.jpg)
-
 {: .right }
 « Le Triomphe des Armées françaises » par [Antoine Monsaldy](https://gallica.bnf.fr/ark:/12148/btv1b8412715t/f1.item)
 
