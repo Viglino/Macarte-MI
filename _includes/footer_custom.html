@@ -10,13 +10,13 @@
   | where_exp: "item", "item.nav_exclude != true" -%}
 
 {%- if page.parent -%}
-  {%- assign root_page page.parent -%}
+  {%- assign root_page = page.parent -%}
 {%- else -%}
-  {%- assign root_page page.title -%}
+  {%- assign root_page = page.title -%}
 {%- endif -%}
 
 {%- for item in sorted_pages_site -%}
-  {%- if item.title == page.title -%}
+  {%- if item.title == root_page -%}
     {%- assign num_of_pages = forloop.length -%}
     {%- assign next_i = forloop.index0 | plus: 1 -%}
     {%- assign prev_i = forloop.index0 | minus: 1 -%}
