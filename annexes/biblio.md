@@ -6,9 +6,14 @@ parent: Annexes
 nav_order: 1
 author: Viglino
 date: 2023-08-07
+description: Des modèles pour créer des conceptions efficaces et raconter des histoires avec des cartes.
+image: /assets/banner/biblio.jpg
 ---
-
 # Références bibliographiques
+
+{: .right }
+![](/Macarte-MI/assets/banner/biblio.jpg){: .large }  
+Louis XVI et La Pérouse (1817) - Nicolas-André Monsiau (1754–1837) - CC0
 
 ## Bertin, 1967
 Jacques Bertin. Sémiologie graphique : Les diagrammes - Les réseaux - Les cartes. Paris/La Haye, Mouton ; Paris, Gauthier-Villars. 1967
