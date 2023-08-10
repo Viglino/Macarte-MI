@@ -1,8 +1,7 @@
 {%- assign children_pages = sorted_pages 
-  | where_exp: "item", "item.parent == {{ page.title }}"
+  | where: "parent", page.title
   | where_exp: "item", "item.title != nil"
   | where_exp: "item", "item.nav_exclude != true" -%}
-
 <h2>
   children
 </h2>
