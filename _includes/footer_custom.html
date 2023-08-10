@@ -1,4 +1,6 @@
-{%- assign root_pages = sorted_pages 
+{% assign sorted_pages_site = site.pages | sort:"nav_order" %}
+
+{%- assign root_pages = sorted_pages_site 
   | where_exp: "item", "item.parent == nil"
   | where_exp: "item", "item.title != nil"
   | where_exp: "item", "item.nav_exclude != true" -%}
@@ -6,15 +8,6 @@
   | where: "parent", page.parent
   | where_exp: "item", "item.title != nil"
   | where_exp: "item", "item.nav_exclude != true" -%}
-
-<h2>
-  sorted
-</h2>
-<ul>
-{%- for item in sorted_pages -%}
-  <li>{{ item.nav_order }} - {{ item.title }} - {{ item.url }} - {{ item.parent }}</li>
-{%- endfor -%}
-</ul>
 
 <h2>
   children

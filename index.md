@@ -29,9 +29,3 @@ Le mouvement Opendata, avec la mise à disposition de plus en plus [de données 
 
 {: .idea }
 Cette publication vous donne un aperçu des possibilités offertent pour manipuler ces cartes et ces données. Elle montre comment bénéficier de la géoinformation en tant qu'individus ou société, pour des utilisations en politique, dans les affaires, dans la recherche et dans l'éducation.
-
-----
-
-# Table des matières
-
-{:toc}
