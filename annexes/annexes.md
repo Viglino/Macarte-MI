@@ -9,4 +9,4 @@ date: 2023-08-09
 ---
 # Annexes
 
-![](/Macarte-MI/assets/banner/fantasy.jpg)
+![](/Macarte-MI/assets/banner/fantasy.jpg){: .large }

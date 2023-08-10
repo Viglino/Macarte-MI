@@ -95,6 +95,11 @@ img.center {
   text-align: center;
   margin-top: 0;
 }
+.large {
+  margin: 0 -1em;
+  width: calc(100% + 2em);
+  max-width: unset;
+}
 
 table.noborder * {
   border: 0;
