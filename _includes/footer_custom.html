@@ -1,6 +1,6 @@
-<p>
-  SORTED {{ sorted_pages }} SORTED
-</p>
+<script>
+  window.sorted_pages = {{ sorted_pages }}
+</script>
 {%- if site.footer_content -%}
   <p class="text-small text-grey-dk-100 mb-0">{{ site.footer_content }}</p>
 {%- endif -%}
