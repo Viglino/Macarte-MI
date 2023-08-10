@@ -10,7 +10,7 @@ image: /assets/banner/macarte.jpg
 # Ma carte - Modèle d'interface
 *Des modèles pour créer des conceptions efficaces et raconter des histoires avec des cartes.*
 
-![](/Macarte-MI/assets/banner/macarte.jpg){: .large }
+![](/Macarte-MI/assets/banner/macarte.jpg){: .banner }
 
 {: .note }
 > 80% des décisions que les gens prennent ont une référence spatiale.

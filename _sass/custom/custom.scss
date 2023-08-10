@@ -96,16 +96,21 @@ img.center {
   margin-top: 0;
 }
 
-.large {
-  margin: 0 -1em;
-  width: calc(100% + 2em);
+.small {
+  font-size: .9em;
+  line-height: 1em;
+}
+
+.banner {
+  margin: 0 -1rem;
+  width: calc(100% + 2rem);
   max-width: unset;
 }
 
 @media (min-width: 50rem) {
-  .large {
-    margin: 0 -2em;
-    width: calc(100% + 4em);
+  .banner {
+    margin: 0 -2rem;
+    width: calc(100% + 4rem);
     max-width: unset;
   }  
 }

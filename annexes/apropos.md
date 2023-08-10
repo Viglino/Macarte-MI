@@ -10,7 +10,7 @@ date: 2023-08-07
 
 # A propos
 
-![](/Macarte-MI/assets/banner/fantasy.jpg){: .large }
+![](/Macarte-MI/assets/banner/fantasy.jpg){: .banner }
 
 ## L'auteur
 ---
