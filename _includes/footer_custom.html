@@ -51,7 +51,7 @@
 <div class="footer-nav">
   {%- if prev_page -%}
   <p class="prev-page">
-    <a href="{{ baseurl }}{{ prev_page.url }}">
+    <a href="{{ site.baseurl }}{{ prev_page.url }}">
       {{ prev_page.title }}
     </a>
   </p>
@@ -59,7 +59,7 @@
   
   {%- if next_page -%}
   <p class="next-page">
-    <a href="{{ baseurl }}{{ next_page.url }}">
+    <a href="{{ site.baseurl }}{{ next_page.url }}">
       {{ next_page.title }}
     </a>
   </p>
