@@ -106,3 +106,32 @@ p.avatar img {
   float: left;
   margin-right: 0.5em;
 }
+
+/* footer nav */
+.footer-nav {
+  font-size: .8em;
+  display: block;
+  height: 1em;
+  margin-bottom: 1em;
+}
+.footer-nav .prev-page {
+  float: left;
+  margin: 0;
+}
+.footer-nav .prev-page:before {
+  content: "\f053";
+  font-family: FontAwesome;
+  vertical-align: middle;
+  margin-right: .25em;
+}
+
+.footer-nav .next-page {
+  float: right;
+  margin: 0;
+}
+.footer-nav .next-page:after {
+  content: "\f054";
+  font-family: FontAwesome;
+  vertical-align: middle;
+  margin-left: .25em;
+}
