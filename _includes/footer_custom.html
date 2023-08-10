@@ -3,8 +3,8 @@
   | where_exp: "item", "item.nav_exclude != true" -%}
 {%- include sorted_pages.html pages = nav_pages -%}  
 <ul>
-{%- for item in sorted_pages -%}
-  <li>{{ item.title }}</li>
+{%- for item in site.html_pages -%}
+  <li>{{ page.url }} - {{ item.title }} - {{ item.url }} - {{ item.nav_order }} - {{ item.parent }}</li>
 {%- endfor -%}
 </ul>
 {%- if site.footer_content -%}
