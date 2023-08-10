@@ -9,22 +9,33 @@
   | where_exp: "item", "item.title != nil"
   | where_exp: "item", "item.nav_exclude != true" -%}
 
-<h2>
-  children
-</h2>
-<ul>
-{%- for item in children_pages -%}
-  <li>{{ item.nav_order }} - {{ item.title }} - {{ item.url }} - {{ item.parent }}</li>
+{%- if page.parent -%}
+  {%- assign root_page page.parent -%}
+{%- else -%}
+  {%- assign root_page page.title -%}
+{%- endif -%}
+
+{%- for item in sorted_pages_site -%}
+  {%- if item.title == page.title -%}
+    {%- assign num_of_pages = forloop.length -%}
+    {%- assign next_i = forloop.index0 | plus: 1 -%}
+    {%- assign prev_i = forloop.index0 | minus: 1 -%}
+    {%- assign next_page = sorted_pages_site[next_i] -%}
+    {%- assign prev_page = sorted_pages_site[prev_i] -%}
+  {%- endif -%}
 {%- endfor -%}
-</ul>
-<h2>
-  root
-</h2>
-<ul>
-{%- for item in root_pages -%}
-  <li>{{ item.nav_order }} - {{ item.title }} - {{ item.url }} - {{ item.parent }}</li>
-{%- endfor -%}
-</ul>
+
+{%- if prev_page -%}
+<p>
+  {{ prev_page.url }}
+</p>
+{%- endif -%}';
+
+{%- if next_page -%}
+<p>
+  {{ next_page.url }}
+</p>
+{%- endif -%}
 
 
 {%- if site.footer_content -%}
