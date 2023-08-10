@@ -6,6 +6,16 @@
   | where: "parent", page.parent
   | where_exp: "item", "item.title != nil"
   | where_exp: "item", "item.nav_exclude != true" -%}
+
+<h2>
+  sorted
+</h2>
+<ul>
+{%- for item in sorted_pages -%}
+  <li>{{ item.nav_order }} - {{ item.title }} - {{ item.url }} - {{ item.parent }}</li>
+{%- endfor -%}
+</ul>
+
 <h2>
   children
 </h2>
