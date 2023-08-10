@@ -2,9 +2,13 @@
   | where_exp: "item", "item.parent == {{ page.title }}"
   | where_exp: "item", "item.title != nil"
   | where_exp: "item", "item.nav_exclude != true" -%}
+
+<h2>
+  children
+</h2>
 <ul>
 {%- for item in children_pages -%}
-  <li>{{ page.url }} - {{ item.title }} - {{ item.url }} - {{ item.nav_order }} - {{ item.parent }}</li>
+  <li>{{ item.nav_order }} - {{ item.title }} - {{ item.url }} - {{ item.parent }}</li>
 {%- endfor -%}
 </ul>
 
