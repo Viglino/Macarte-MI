@@ -4,6 +4,13 @@
   }
 }
 
+/* Youtube iframe */
+iframe {
+  margin: auto;
+  display: block;
+  max-width: 100%;
+}
+
 p.note, blockquote.note,
 p.warning, blockquote.warning,
 p.highlight, blockquote.highlight,
