@@ -17,6 +17,7 @@
     {%- assign num_of_pages = forloop.length -%}
     {%- assign next_i = forloop.index0 | plus: 1 -%}
     {%- assign prev_i = forloop.index0 | minus: 1 -%}
+    {%- assign curent_root = root_pages[forloop.index0] -%}
     {%- assign next_page = root_pages[next_i] -%}
     {%- if prev_i >= 0 -%}
       {%- assign prev_page = root_pages[prev_i] -%}
@@ -29,6 +30,8 @@
     | where: "parent", page.parent
     | where_exp: "item", "item.title != nil"
     | where_exp: "item", "item.nav_exclude != true" -%}
+
+  {%- assign prev_page = curent_root -%}
 
   {%- for item in children_pages -%}
     {%- if item.url == page.url -%}
@@ -45,17 +48,23 @@
   {%- endfor -%}
 {%- endif -%}
 
-{%- if prev_page -%}
-<p>
-  < {{ prev_page.title }}
-</p>
-{%- endif -%}
-
-{%- if next_page -%}
-<p>
-  {{ next_page.title }} >
-</p>
-{%- endif -%}
+<div class="footer-nav">
+  {%- if prev_page -%}
+  <p class="prev-page">
+    <a href="{{ prev_page.url }}">
+      {{ prev_page.title }}
+    </a>
+  </p>
+  {%- endif -%}
+  
+  {%- if next_page -%}
+  <p class="next-page">
+    <a href="{{ next_page.url }}">
+      {{ next_page.title }}
+    </a>
+  </p>
+  {%- endif -%}
+</div>
 
 
 {%- if site.footer_content -%}
