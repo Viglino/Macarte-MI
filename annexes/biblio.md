@@ -10,6 +10,12 @@ date: 2023-08-07
 
 # Références bibliographiques
 
+## Bertin, 1967
+Jacques Bertin. Sémiologie graphique : Les diagrammes - Les réseaux - Les cartes. Paris/La Haye, Mouton ; Paris, Gauthier-Villars. 1967
+
+## Palsky et al. 1998
+Gilles Palsky et Marie-Claire Robic, « Aux sources de la sémiologie graphique », Cybergeo: European Journal of Geography. 1998 - [PDF](http://journals.openedition.org/cybergeo/554)
+
 ## Fernandez-Falcon et al. (1993)
 Fernandez-Falcon E, Strittholt JR, Alobaida AI, Schmidley RW, Bossler JD, Ramirez JR. 1993. A Review of Digital Geographic Information Standards for the State/Local User. URISA Journal, Vol 5 (2): 21-27.
 

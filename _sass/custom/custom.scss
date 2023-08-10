@@ -112,8 +112,9 @@ p.avatar img {
 }
 
 /* footer nav */
-footer .text-small {
+footer .text-footer {
   text-align: center;
+  font-size: 0.7em;
 }
 
 .footer-nav {
@@ -142,4 +143,10 @@ footer .text-small {
   font-family: FontAwesome;
   vertical-align: middle;
   margin-left: .25em;
+}
+
+@media print {
+  .footer-nav {
+    display: none;
+  }
 }
