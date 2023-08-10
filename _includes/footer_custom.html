@@ -1,5 +1,9 @@
+{%- assign root_pages = sorted_pages 
+  | where_exp: "item", "item.parent == nil"
+  | where_exp: "item", "item.title != nil"
+  | where_exp: "item", "item.nav_exclude != true" -%}
 {%- assign children_pages = sorted_pages 
-  | where: "parent", page.title
+  | where: "parent", page.parent
   | where_exp: "item", "item.title != nil"
   | where_exp: "item", "item.nav_exclude != true" -%}
 <h2>
@@ -7,6 +11,14 @@
 </h2>
 <ul>
 {%- for item in children_pages -%}
+  <li>{{ item.nav_order }} - {{ item.title }} - {{ item.url }} - {{ item.parent }}</li>
+{%- endfor -%}
+</ul>
+<h2>
+  root
+</h2>
+<ul>
+{%- for item in root_pages -%}
   <li>{{ item.nav_order }} - {{ item.title }} - {{ item.url }} - {{ item.parent }}</li>
 {%- endfor -%}
 </ul>
