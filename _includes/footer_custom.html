@@ -1,6 +1,9 @@
-<script>
-  window.sorted_pages = {{ sorted_pages }}
-</script>
+{%- include sorted_pages.html pages = pages -%}  
+<ul>
+{%- for item in sorted_pages -%}
+  <li>{{ item.title }}</li>
+{%- endfor -%}
+</ul>
 {%- if site.footer_content -%}
   <p class="text-small text-grey-dk-100 mb-0">{{ site.footer_content }}</p>
 {%- endif -%}
