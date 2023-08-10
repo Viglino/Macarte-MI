@@ -18,7 +18,7 @@
     {%- assign next_i = forloop.index0 | plus: 1 -%}
     {%- assign prev_i = forloop.index0 | minus: 1 -%}
     {%- assign next_page = root_pages[next_i] -%}
-    {%- if prev_i < 0 -%}
+    {%- if prev_i >= 0 -%}
       {%- assign prev_page = root_pages[prev_i] -%}
     {%- endif -%}
   {%- endif -%}
@@ -38,7 +38,7 @@
       {%- if num_of_pages > next_i -%}
         {%- assign next_page = children_pages[next_i] -%}
       {%- endif -%}
-      {%- if prev_i < 0 -%}
+      {%- if prev_i >= 0 -%}
         {%- assign prev_page = children_pages[prev_i] -%}
       {%- endif -%}
     {%- endif -%}
