@@ -150,3 +150,19 @@ footer .text-footer {
     display: none;
   }
 }
+
+/* external links */
+a[target]:after {
+  content: "\f08e";
+  font-family: FontAwesome;
+  font-size: 0.8em;
+  position: relative;  
+  top: -.3em;
+  padding: .2em;
+}
+a[target]:has(img) {
+  cursor: zoom-in;
+}
+a[target]:has(img):after {
+    display: none;
+}
