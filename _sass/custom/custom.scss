@@ -98,7 +98,7 @@ img.center {
 
 .small {
   font-size: .9em;
-  line-height: 1em;
+  line-height: 1.2em;
 }
 
 .banner {
@@ -122,6 +122,12 @@ table.noborder * {
 p.right {
   text-align: right;
 }
+
+img.fleft {
+  float: left;
+  margin: 0.5em 1em 0 0;
+}
+
 
 p.avatar img {
   width: 2.5em;

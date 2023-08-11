@@ -12,7 +12,7 @@ image: /assets/banner/biblio.jpg
 # Références bibliographiques
 
 {: .right .small }
-![](/Macarte-MI/assets/banner/biblio.jpg){: .large }  
+![](/Macarte-MI/assets/banner/biblio.jpg){: .banner }  
 Louis XVI et La Pérouse (1817) - Nicolas-André Monsiau (1754–1837) - CC0
 
 ## Bertin, 1967
