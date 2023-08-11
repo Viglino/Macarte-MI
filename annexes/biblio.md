@@ -57,6 +57,9 @@ Sidonie Christophe. Géovisualisation(s). Ecole GeoViz Aussois. oct.2018 - [PDF]
 ## Mericskay, 2018
 Boris Mericskay. Géovisualisation de données sur le Web. Ecole GeoViz Aussois. 2018 - [PDF](https://sites-formations.univ-rennes2.fr/mastersigat/Cours/geoviz2018.pdf)
 
+## Mericskay, 2020
+Boris Mericskay. Sémiologie graphique. Université Rennes 2. 2020 [PDF](https://sites-formations.univ-rennes2.fr/mastersigat/Cours/CM_SemiologieGraphique_2020.pdf)
+
 ## Palsky, 2017
 Gilles Palsky, La Sémiologie graphique de Jacques Bertin a cinquante ans ! visionscarto. 2017 - [voir en ligne](https://visionscarto.net/la-semiologie-graphique-a-50-ans)
 
