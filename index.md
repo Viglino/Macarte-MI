@@ -12,7 +12,7 @@ image: /assets/banner/macarte.jpg
 
 ![](/Macarte-MI/assets/banner/macarte.jpg){: .banner }
 
-{: .note }
+{: .quote }
 > 80% des décisions que les gens prennent ont une référence spatiale.
 >
 > {: .right }

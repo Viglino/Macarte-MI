@@ -9,8 +9,11 @@ iframe {
   margin: auto;
   display: block;
   max-width: 100%;
+  border: 0;
+  box-shadow: 1px 1px 3px 1px rgba(0,0,0,.5);
 }
 
+p.quote, blockquote.quote,
 p.note, blockquote.note,
 p.warning, blockquote.warning,
 p.highlight, blockquote.highlight,
@@ -22,6 +25,7 @@ p.idea, blockquote.idea {
   padding: 0.8rem;
 }
 
+.quote a,
 .note a,
 .warning a {
   text-decoration-color: transparent;
@@ -31,12 +35,14 @@ blockquote > p {
   margin: 0.15em 0;
 }
 
+blockquote.quote > p:last-child,
 blockquote.note > p:last-child,
 blockquote.warning > p:last-child,
 blockquote.highlight > p:last-child,
 blockquote.idea > p:last-child {
   margin-bottom: 0;
 }
+blockquote.quote > p:first-child,
 blockquote.note > p:first-child,
 blockquote.warning > p:first-child,
 blockquote.highlight > p:first-child,
@@ -44,7 +50,7 @@ blockquote.idea > p:first-child {
   margin-top: 0;
 }
 
-p.note, blockquote.note {
+p.quote, blockquote.quote {
   background: rgba(114, 83, 237, 0.2);
   border-left: 4px solid #381885;
 }
@@ -54,6 +60,7 @@ p.warning, blockquote.warning {
 }
 
 p.warning::before, blockquote.warning::before,
+p.quote::before, blockquote.quote::before,
 p.note::before, blockquote.note::before,
 p.idea::before, blockquote.idea::before {
   font-weight: normal;
@@ -66,7 +73,7 @@ p.idea::before, blockquote.idea::before {
   margin-bottom: -0.2em;
 }
 
-p.note::before, blockquote.note::before {
+p.quote::before, blockquote.quote::before {
   content: "\f10d";
   color: #381885;
 }
@@ -78,6 +85,10 @@ p.warning::before, blockquote.warning::before {
   margin-bottom: 0;
 }
 
+p.note::before, blockquote.note::before {
+  content: "\f044";
+  color: #e7af06;
+}
 p.idea::before, blockquote.idea::before {
   content: "\f0eb";
   color: #e7af06;
@@ -94,6 +105,7 @@ img.center {
 .figure {
   text-align: center;
   margin-top: 0;
+  line-height: 1.2em;
 }
 
 .shadow img {

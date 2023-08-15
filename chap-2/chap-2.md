@@ -13,7 +13,7 @@ date: 2023-08-07
 ![](/Macarte-MI/assets/banner/napoleon.jpg){: .banner }
 « Le Triomphe des Armées françaises » par [Antoine Monsaldy](https://gallica.bnf.fr/ark:/12148/btv1b8412715t/f1.item)
 
-{: .note }
+{: .quote }
 > Un bon croquis vaut mieux qu'un long discours.
 >
 > {: .right }
