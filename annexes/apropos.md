@@ -17,7 +17,7 @@ date: 2023-08-07
 
 {: .avatar}
 ![](https://avatars.githubusercontent.com/u/7868217)
-**Jean-Marc Viglino** 🧭 Ingénieur à l'IGN, je travaille au développement d'outils dans le domaine de web, de l'Opensource et du Mobile.
+**Jean-Marc Viglino** 🧭 Ingénieur à l'IGN, je travaille au développement d'outils dans le domaine du web, de l'Opensource et du Mobile.
 
 [<i class="fa fa-twitter"></i> @jmviglino](https://twitter.com/jmviglino "me suivre sur Twitter") -
 [<i class="fa fa-github"></i> Viglino](https://github.com/Viglino "mes projets opensource") -
@@ -34,4 +34,4 @@ Vous devez :
 * **Pas de restrictions complémentaires** - Vous n'êtes pas autorisé à appliquer des conditions légales ou des mesures techniques qui restreindraient légalement autrui à utiliser l'Oeuvre dans les conditions décrites par la licence.
 
 {: .idea }
-[Proposer une modification...](https://github.com/Viglino/Macarte-MI/issues)
+Si vous constatez une erreur, imprécision ou juste pour discuter, n'hésitez pas à [proposer une modification...](https://github.com/Viglino/Macarte-MI/issues)
