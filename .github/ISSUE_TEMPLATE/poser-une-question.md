@@ -2,7 +2,7 @@
 name: Poser une question
 about: Besoins de renseignements ?
 title: ''
-labels: ''
+labels: question
 assignees: ''
 
 ---
