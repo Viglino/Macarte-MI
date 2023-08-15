@@ -69,6 +69,9 @@ Lambert N. et Zanin C. Manuel de cartographie. Principes, méthodes, application
 ## Occelli, 2018
 Florent Occelli. Traitement, analyse et cartographie. SIEGLES. 2018 - [voir en ligne](https://www.sigles-sante-environnement.fr/cartographies/methodologie/)
 
+## Brunet, 1986
+Roger Brunet. La carte-modèle et les chorèmes. Mappemonde 86/4, pp. 2-6. [PDF](https://www.persee.fr/doc/mappe_0764-3470_1986_num_4_4_2334)
+
 # Resources et médias
 
 ## Les géographies imaginaires

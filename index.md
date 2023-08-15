@@ -7,7 +7,7 @@ nav_order: 0
 description: Des modèles pour créer des conceptions efficaces et raconter des histoires avec des cartes.
 image: /assets/banner/macarte.jpg
 ---
-# Ma carte - Modèle d'interface
+# Modèles d'interfaces pour Ma carte
 *Des modèles pour créer des conceptions efficaces et raconter des histoires avec des cartes.*
 
 ![](/Macarte-MI/assets/banner/macarte.jpg){: .banner }
