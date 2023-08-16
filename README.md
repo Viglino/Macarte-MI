@@ -16,6 +16,6 @@ Elle montre comment bénéficier de la géoinformation en tant qu'individus ou s
 * [Chapitre 2 - L’art du croquis](https://viglino.github.io/Macarte-MI/chap-2/)
 * [Chapitre 3 - Choisir la bonne mise en page](#modèles-dinterface-pour-ma-carte)
 * [Chapitre 4 - Interagir avec la carte](#modèles-dinterface-pour-ma-carte)
-* [Chapitre 5 - Traiter des données complexes](#modèles-dinterface-pour-ma-carte)
+* [Chapitre 5 - La carte par l'exemple](#modèles-dinterface-pour-ma-carte)
 * [Chapitre 6 - Les erreurs courantes à éviter](#modèles-dinterface-pour-ma-carte)
 * [Annexes et bibliographie](https://viglino.github.io/Macarte-MI/annexes/)
