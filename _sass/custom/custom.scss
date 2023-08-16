@@ -124,6 +124,9 @@ img.center {
   width: calc(100% + 2rem);
   max-width: unset;
 }
+iframe.banner {
+  margin-bottom: .25rem;
+}
 
 @media (min-width: 50rem) {
   .banner {
@@ -145,7 +148,11 @@ img.fleft {
   float: left;
   margin: 0.5em 1em 0 0;
 }
-
+i.fleft {
+  float: left;
+  line-height: 1em;
+  margin: 0 0.5em 0 0;
+}
 
 p.avatar img {
   width: 2.5em;
