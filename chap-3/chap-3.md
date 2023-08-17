@@ -21,5 +21,17 @@ O caput elleboro dignum (Monde dans une tête de fou) 1590 - [Gallica BnF](https
 
 
 * Construire son récit
+** Trouver les données
+** Structurer, croiser et compléter
+** Définir le contenu
+videos / images / comparateurs / statistiques
+** Focus sur un endroit / Affichage 
+** Définir la légende
+
 * Choisir sa mise en page
+
+
 * Interagir avec la carte
+** Les bulles
+
+** Les outils

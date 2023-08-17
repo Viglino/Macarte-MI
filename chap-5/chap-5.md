@@ -1,30 +1,23 @@
 ---
 layout: default
-title: 5 - Les erreurs à éviter
+title: 5 - La carte par l'exemple
 permalink: /chap-5/
 nav_order: 5
 has_children: true
 author: Viglino
 date: 2023-08-17
 ---
-# Chapitre 5 - Les erreurs à éviter
+# Chapitre 5 - La carte par l'exemple
 
 {: .right .small }
-![](/Macarte-MI/assets/banner/pirate.jpg){: .banner }
-[Pirate des Caraïbes](https://fr.wikipedia.org/wiki/Pirates_des_Cara%C3%AFbes_:_La_Mal%C3%A9diction_du_Black_Pearl)
+![](/Macarte-MI/assets/banner/ark-12148-btv1b53088281z.jpg){: .banner }
+Stéphanodrome par Augustin Estienne, 1844 - [Gallica BnF](https://gallica.bnf.fr/ark:/12148/btv1b53088281z)
 
 {: .quote }
-> You're off the edge of the map, mate. Here there be monsters.
+> Elle n'est portée sur aucune carte : les vrais lieux n'y figurent jamais.
 >
 > {: .right }
-> Hector Barbossa - The Curse of the Black Pearl
+> Herman Melville, Moby-Dick (1851).
 
-<!--
-
-- Mais ! C'est mon Navire ! Et c'est mes cartes !
-- Ce qui fait de toi... l'homme aux cartes !
-Pirates Des Caraïbes, Jusqu'au Bout Du Monde - Jack et Barbossa
-
-On ouvre les atlas, on rêve sur les cartes. On répète les noms magnifiques des villes inconnues.
-La Vallée des rubis (1955) de Joseph Kessel
--->
+* Faire une carte de l'INSEE
+* Faire une carte bivariée

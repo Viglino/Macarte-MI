@@ -1,23 +1,23 @@
 ---
 layout: default
-title: 4 - La carte par l'exemple
+title: 4 - Traiter des données complexes
 permalink: /chap-4/
 nav_order: 4
 has_children: true
 author: Viglino
 date: 2023-08-17
 ---
-# Chapitre 4 - La carte par l'exemple
+# Chapitre 4 - Traiter des données complexes
 
 {: .right .small }
-![](/Macarte-MI/assets/banner/ark-12148-btv1b53088281z.jpg){: .banner }
-Stéphanodrome par Augustin Estienne, 1844 - [Gallica BnF](https://gallica.bnf.fr/ark:/12148/btv1b53088281z)
+![](/Macarte-MI/assets/banner/ark-12148-btv1b55002605w.jpg){: .banner }
+[Atlas nautique du Monde, dit atlas Mille - &copy; [BnF](https://gallica.bnf.fr/ark:/12148/btv1b55002605w)
 
 {: .quote }
-> Elle n'est portée sur aucune carte : les vrais lieux n'y figurent jamais.
+> Le monde est tellement grand qu'il se passe toujours quelque chose quelque part.
 >
 > {: .right }
-> Herman Melville, Moby-Dick (1851).
+> Pour un jour de plus - Mitch Albom
 
-* Faire une carte de l'INSEE
-* Faire une carte bivariée
+* Optimisations / affichage
+* Les outils
