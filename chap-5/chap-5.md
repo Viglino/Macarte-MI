@@ -10,7 +10,7 @@ date: 2023-08-17
 # Chapitre 5 - La carte par l'exemple
 
 {: .right .small }
-![](/Macarte-MI/assets/banner/ark-12148-btv1b53088281z.jpg){: .banner }
+![](/Macarte-MI/assets/banner/ark-12148-btv1b53088281z.png){: .banner }
 Stéphanodrome par Augustin Estienne, 1844 - [Gallica BnF](https://gallica.bnf.fr/ark:/12148/btv1b53088281z)
 
 {: .quote }
