@@ -17,7 +17,8 @@ date: 2023-08-07
 
 {: .avatar}
 ![](https://avatars.githubusercontent.com/u/7868217)
-**Jean-Marc Viglino** 🧭 Ingénieur à l'IGN, je travaille au développement d'outils dans le domaine du web, de l'Opensource et du Mobile.
+**Jean-Marc Viglino** 🧭   
+Ingénieur à l'IGN, je travaille au développement d'outils dans le domaine du web, de l'Opensource et du Mobile.
 
 [<i class="fa fa-twitter"></i> @jmviglino](https://twitter.com/jmviglino "me suivre sur Twitter") -
 [<i class="fa fa-github"></i> Viglino](https://github.com/Viglino "mes projets opensource") -
