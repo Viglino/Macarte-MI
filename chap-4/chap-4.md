@@ -6,6 +6,7 @@ nav_order: 4
 has_children: true
 author: Viglino
 date: 2023-08-17
+image: https://viglino.github.io/Macarte-MI/assets/banner/ark-12148-btv1b55002605w.jpg
 ---
 # Chapitre 4 - Traiter des données complexes
 
