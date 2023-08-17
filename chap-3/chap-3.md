@@ -19,19 +19,15 @@ O caput elleboro dignum (Monde dans une tête de fou) 1590 - [Gallica BnF](https
 > {: .right }
 > Le tour du monde en quatre-vingts jours, Jules Verne
 
-
 * Construire son récit
-** Trouver les données
-** Structurer, croiser et compléter
-** Définir le contenu
-videos / images / comparateurs / statistiques
-** Focus sur un endroit / Affichage 
-** Définir la légende
-
+  * Bibliothèque de symboles
+  * Trouver les données
+  * Définir le contenu - videos / images / comparateurs / statistiques
+  * Structurer, croiser et compléter
+  * Focus sur un endroit Masque et decoupage / Affichage 
+  * Définir la légende
 * Choisir sa mise en page
-
-
+  * Cartes narratives
 * Interagir avec la carte
-** Les bulles
-
-** Les outils
+  * Les bulles
+  * Les outils

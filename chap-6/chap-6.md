@@ -10,8 +10,8 @@ date: 2023-08-17
 # Chapitre 6 - Les erreurs à éviter
 
 {: .right .small }
-![](/Macarte-MI/assets/banner/pirate.jpg){: .banner }
-[Pirate des Caraïbes](https://fr.wikipedia.org/wiki/Pirates_des_Cara%C3%AFbes_:_La_Mal%C3%A9diction_du_Black_Pearl) &copy; Walt Disney Pictures
+![](/Macarte-MI/assets/banner/ark-12148-btv1b55007076p.jpg){: .banner }
+Carte de l’océan Pacifique - Hessel Gerritsz, [Amsterdam], 1622 &copy; [BnF](https://gallica.bnf.fr/ark:/12148/btv1b55007076p)
 
 {: .quote }
 > You're off the edge of the map, mate. Here there be monsters.

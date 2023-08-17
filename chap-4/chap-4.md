@@ -11,7 +11,7 @@ date: 2023-08-17
 
 {: .right .small }
 ![](/Macarte-MI/assets/banner/ark-12148-btv1b55002605w.jpg){: .banner }
-[Atlas nautique du Monde, dit atlas Mille - &copy; [BnF](https://gallica.bnf.fr/ark:/12148/btv1b55002605w)
+Atlas nautique du Monde, dit atlas Mille - &copy; [BnF](https://gallica.bnf.fr/ark:/12148/btv1b55002605w)
 
 {: .quote }
 > Le monde est tellement grand qu'il se passe toujours quelque chose quelque part.
@@ -20,4 +20,6 @@ date: 2023-08-17
 > Pour un jour de plus - Mitch Albom
 
 * Optimisations / affichage
-* Les outils
+* Les outils / conversion de données / changement de projection
+* Les SIG
+* Macarte iFrame-API
