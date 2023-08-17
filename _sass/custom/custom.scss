@@ -201,11 +201,18 @@ footer .text-footer {
   }
 }
 
-footer {
-  font-size: 0.8em;
+/* Site footer */
+.site-footer {
+  text-align: right;
 }
-footer img {
+.site-footer p {
+  margin: 0;
+  clear: both;
+}
+.site-footer img {
   height: 1.5em;
+  display: block;
+  float: right;
 }
 
 /* external links */
