@@ -6,6 +6,7 @@ nav_order: 1
 has_children: true
 author: Viglino
 date: 2023-08-07
+image: /assets/banner/dessin.jpg
 ---
 # Chapitre 1 - Initiation à la conception
 

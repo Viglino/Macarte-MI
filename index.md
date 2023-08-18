@@ -5,7 +5,7 @@ title: Ma carte - Modèle d'interface
 author: Viglino
 nav_order: 0
 description: Des modèles pour créer des conceptions efficaces et raconter des histoires avec des cartes.
-image: https://viglino.github.io/Macarte-MI/assets/banner/macarte.jpg
+image: /assets/banner/macarte.jpg
 ---
 # Modèles d'interfaces pour Ma carte
 *Des modèles pour créer des conceptions efficaces et raconter des histoires avec des cartes.*

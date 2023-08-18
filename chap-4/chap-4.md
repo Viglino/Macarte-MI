@@ -6,7 +6,7 @@ nav_order: 4
 has_children: true
 author: Viglino
 date: 2023-08-17
-image: https://viglino.github.io/Macarte-MI/assets/banner/ark-12148-btv1b55002605w.jpg
+image: /assets/banner/ark-12148-btv1b55002605w.jpg
 ---
 # Chapitre 4 - Traiter des données complexes
 
@@ -23,4 +23,4 @@ Atlas nautique du Monde, dit atlas Mille - &copy; [BnF](https://gallica.bnf.fr/a
 * Optimisations / affichage
 * Les outils / conversion de données / changement de projection
 * Les SIG
-* Macarte iFrame-API
+* Ma carte iFrame-API

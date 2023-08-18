@@ -6,6 +6,7 @@ nav_order: 6
 has_children: true
 author: Viglino
 date: 2023-08-17
+image: /assets/banner/ark-12148-btv1b55007076p.jpg
 ---
 # Chapitre 6 - Les erreurs à éviter
 

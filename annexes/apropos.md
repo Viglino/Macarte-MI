@@ -6,6 +6,7 @@ parent: Annexes
 nav_order: 2
 author: Viglino
 date: 2023-08-07
+image: /assets/banner/biblio.jpg
 ---
 
 # A propos
@@ -31,8 +32,8 @@ Vous pouvez :
 * **Adapter** - remixer, transformer et créer à partir du matériel pour toute utilisation, y compris commerciale.
 
 Vous devez :
-* **Attribution** - Vous devez créditer l'Œuvre, intégrer un lien vers la licence et indiquer si des modifications ont été effectuées à l'Oeuvre. Vous devez indiquer ces informations par tous les moyens raisonnables, sans toutefois suggérer que l'Offrant vous soutient ou soutient la façon dont vous avez utilisé son Oeuvre.
-* **Pas de restrictions complémentaires** - Vous n'êtes pas autorisé à appliquer des conditions légales ou des mesures techniques qui restreindraient légalement autrui à utiliser l'Oeuvre dans les conditions décrites par la licence.
+* **Attribution** - Vous devez créditer l'Œuvre, intégrer un lien vers la licence et indiquer si des modifications ont été effectuées à l'Œuvre. Vous devez indiquer ces informations par tous les moyens raisonnables, sans toutefois suggérer que l'Offrant vous soutient ou soutient la façon dont vous avez utilisé son Œuvre.
+* **Pas de restrictions complémentaires** - Vous n'êtes pas autorisé à appliquer des conditions légales ou des mesures techniques qui restreindraient légalement autrui à utiliser l'Œuvre dans les conditions décrites par la licence.
 
 {: .idea }
-Si vous constatez une erreur, imprécision ou juste pour discuter, n'hésitez pas à [proposer une modification...](https://github.com/Viglino/Macarte-MI/issues)
+Si vous constatez une erreur, imprécision ou juste pour discuter, n'hésitez pas à [en gager une discussion...](https://github.com/Viglino/Macarte-MI/discussions)

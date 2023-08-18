@@ -6,6 +6,7 @@ nav_order: 2
 has_children: true
 author: Viglino
 date: 2023-08-07
+image: /assets/banner/napoleon.jpg
 ---
 # Chapitre 2 - L'art du croquis
 

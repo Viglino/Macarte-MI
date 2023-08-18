@@ -6,6 +6,7 @@ nav_order: 3
 has_children: true
 author: Viglino
 date: 2023-08-17
+image: /assets/banner/ark-12148-btv1b7710391q.jpg
 ---
 # Chapitre 3 - Le récit cartographique
 
@@ -19,18 +20,3 @@ O caput elleboro dignum (Monde dans une tête de fou) 1590 - [Gallica BnF](https
 > {: .right }
 > Le tour du monde en quatre-vingts jours, Jules Verne
 
-La carte par essence raconte une histoire, elle délivre un message, c'est un instrument de communication, voir de propagande.   
-
-* La carte dont vous êtes le héro
-* Construire son récit
-  * Bibliothèque de symboles
-  * Trouver les données
-  * Définir le contenu - videos / images / comparateurs / statistiques
-  * Structurer, croiser et compléter
-  * Focus sur un endroit Masque et decoupage / Affichage 
-  * Définir la légende
-* Choisir sa mise en page
-  * Cartes narratives
-* Interagir avec la carte
-  * Les bulles
-  * Les outils

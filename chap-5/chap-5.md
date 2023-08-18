@@ -6,6 +6,7 @@ nav_order: 5
 has_children: true
 author: Viglino
 date: 2023-08-17
+image: /assets/banner/ark-12148-btv1b53088281z.png
 ---
 # Chapitre 5 - La carte par l'exemple
 
