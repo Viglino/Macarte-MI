@@ -19,5 +19,7 @@ Stéphanodrome par Augustin Estienne, 1844 - [Gallica BnF](https://gallica.bnf.f
 > {: .right }
 > Herman Melville, Moby-Dick (1851).
 
-* Faire une carte de l'INSEE
+Si comme le dit Joseph Joubert « La parole entraîne, l’exemple enseigne », cette section présente quelques cartes et la manière de les reproduire.
+
+* Une carte comme l'INSEE
 * Faire une carte bivariée

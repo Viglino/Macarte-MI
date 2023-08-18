@@ -19,6 +19,9 @@ O caput elleboro dignum (Monde dans une tête de fou) 1590 - [Gallica BnF](https
 > {: .right }
 > Le tour du monde en quatre-vingts jours, Jules Verne
 
+La carte par essence raconte une histoire, elle délivre un message, c'est un instrument de communication, voir de propagande.   
+
+* La carte dont vous êtes le héro
 * Construire son récit
   * Bibliothèque de symboles
   * Trouver les données

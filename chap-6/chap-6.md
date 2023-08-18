@@ -28,3 +28,6 @@ Pirates Des Caraïbes, Jusqu'au Bout Du Monde - Jack et Barbossa
 On ouvre les atlas, on rêve sur les cartes. On répète les noms magnifiques des villes inconnues.
 La Vallée des rubis (1955) de Joseph Kessel
 -->
+
+* Le mapfail
+* Mentir avec les cartes
