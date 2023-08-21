@@ -4,6 +4,10 @@
   }
 }
 
+hr {
+  clear: both;
+}
+
 .nav-list .nav-list-item>.nav-list {
   padding-left: 0.5rem;
 }
@@ -265,7 +269,13 @@ code.small {
 }
 
 /* Block left */
-.bleft {
+.bright {
   max-width: 30%;
   float: left;
+}
+@media (max-width: 20rem) {
+  .bright {
+    max-width: 70%;
+    float: unset;
+  }
 }
