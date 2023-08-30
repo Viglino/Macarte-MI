@@ -72,6 +72,9 @@ Florent Occelli. Traitement, analyse et cartographie. SIEGLES. 2018 - [voir en l
 ## Brunet, 1986
 Roger Brunet. La carte-modèle et les chorèmes. Mappemonde 86/4, pp. 2-6. [PDF](https://www.persee.fr/doc/mappe_0764-3470_1986_num_4_4_2334)
 
+## Omer, 2015
+Omer Nadin. Evaluation du potentiel des Storymaps. SGOI 2015. [PDF](https://ise.unige.ch/geomrapport/rapports/CCG2015-RapportDeStage-OmerNadin.pdf)
+
 # Resources et médias
 
 ## Les géographies imaginaires
