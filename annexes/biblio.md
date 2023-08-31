@@ -75,6 +75,9 @@ Roger Brunet. La carte-modèle et les chorèmes. Mappemonde 86/4, pp. 2-6. [PDF]
 ## Omer, 2015
 Omer Nadin. Evaluation du potentiel des Storymaps. SGOI 2015. [PDF](https://ise.unige.ch/geomrapport/rapports/CCG2015-RapportDeStage-OmerNadin.pdf)
 
+## Wilke, 2019
+Claus O. Wilke. Fundamentals of Data Visualization. O'Reilly Media, 2019. [PDF](https://clauswilke.com/dataviz/)
+
 # Resources et médias
 
 ## Les géographies imaginaires
