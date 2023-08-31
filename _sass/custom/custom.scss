@@ -4,6 +4,10 @@
   }
 }
 
+.main-content h1, .main-content h2 {
+  clear: both;
+}
+
 hr {
   clear: both;
 }
@@ -279,12 +283,16 @@ code.small {
   float: right;
   margin-left: .5em;
 }
+.main-content h2+p.bright {
+  margin-top: -.5em;
+}
 
 @media (max-width: 40rem) {
   .bright {
-      max-width:28rem;
-      float: unset;
-      margin: auto;
-      text-align: center;
+    max-width:28rem;
+    float: unset;
+    margin: auto;
+    text-align: center!important;
+    margin-top: 0!important;
   }
 }

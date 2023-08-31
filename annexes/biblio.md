@@ -3,7 +3,7 @@ layout: biblio
 title: Bibliographie
 permalink: /annexes/biblio
 parent: Annexes
-nav_order: 1
+nav_order: 2
 author: Viglino
 date: 2023-08-07
 description: Des modèles pour créer des conceptions efficaces et raconter des histoires avec des cartes.
@@ -78,14 +78,9 @@ Omer Nadin. Evaluation du potentiel des Storymaps. SGOI 2015. [PDF](https://ise.
 ## Wilke, 2019
 Claus O. Wilke. Fundamentals of Data Visualization. O'Reilly Media, 2019. [PDF](https://clauswilke.com/dataviz/)
 
-# Resources et médias
 
-## Les géographies imaginaires
-Exposition interactive de la BnF - [voir en ligne](https://fantasy.bnf.fr/fr/transmettre/les-geographies-imaginaires/)
+# Resources et outils
 
 ## Mapshaper
 Un outil pour éditer, convertir, simplifier (et plus si affinités) des données géographiques - [voir en ligne](https://mapshaper.org/)
 
-## Géoinformation - tout se passe quelque part
-Sur la chaine Youtube de Swiss Geoportail
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8R0GbAp3APw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

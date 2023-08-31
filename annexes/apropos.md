@@ -3,7 +3,7 @@ layout: default
 title: A propos
 permalink: /annexes/apropos
 parent: Annexes
-nav_order: 2
+nav_order: 1
 author: Viglino
 date: 2023-08-07
 image: /assets/banner/biblio.jpg
