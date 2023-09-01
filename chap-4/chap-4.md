@@ -19,6 +19,3 @@ Atlas nautique du Monde, dit atlas Mille - &copy; [BnF](https://gallica.bnf.fr/a
 >
 > {: .right }
 > Pour un jour de plus - Mitch Albom
-
-* Les SIG
-* Ma carte iFrame-API
