@@ -18,4 +18,4 @@ image: /assets/banner/napoleon.jpg
 > Un bon croquis vaut mieux qu'un long discours.
 >
 > {: .right }
-> Napoléon BONAPARTE
+> Napoléon Bonaparte

@@ -78,9 +78,5 @@ Omer Nadin. Evaluation du potentiel des Storymaps. SGOI 2015. [PDF](https://ise.
 ## Wilke, 2019
 Claus O. Wilke. Fundamentals of Data Visualization. O'Reilly Media, 2019. [PDF](https://clauswilke.com/dataviz/)
 
-
-# Resources et outils
-
-## Mapshaper
-Un outil pour éditer, convertir, simplifier (et plus si affinités) des données géographiques - [voir en ligne](https://mapshaper.org/)
-
+## Bloch, 2006
+Bloch, Harrower. Mapshaper.org: a map generalization web service, Autocarto  2006 [PDF](https://www.cartogis.org/docs/proceedings/2006/bloch_harrower.pdf)
