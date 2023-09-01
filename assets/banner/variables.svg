@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="134.68904mm"
-   height="28.86541mm"
-   viewBox="0 0 134.68904 28.86541"
+   width="223.43788mm"
+   height="43.458569mm"
+   viewBox="0 0 223.43788 43.458569"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="311.12698"
-     inkscape:cy="97.050405"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="221.67798"
+     inkscape:cy="148.84598"
      inkscape:window-width="2880"
      inkscape:window-height="1541"
      inkscape:window-x="2869"
@@ -859,88 +859,94 @@
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(80.504326,-68.566146)">
+     transform="translate(85.395629,-53.197876)">
     <g
        id="g836"
        transform="matrix(0.35277777,0,0,-0.35277777,21.721353,280.13596)" />
     <g
-       id="g21640"
-       transform="translate(-0.77485851,0.05854761)">
-      <g
-         id="g2584"
-         transform="matrix(0.21463038,0,0,0.21447587,-68.544077,93.880468)">
-        <text
-           transform="translate(-19.376,6.5)"
-           style="font-variant:normal;font-weight:bold;font-size:16px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text2588"><tspan
-             x="0 8 17.184 21.312 25.440001 29.568001"
-             y="0"
-             sodipodi:role="line"
-             id="tspan2586">Taille</tspan></text>
-      </g>
-      <g
-         id="g2590"
-         transform="matrix(0.21463038,0,0,0.21447587,-45.30877,93.880468)">
-        <text
-           transform="translate(-23.704,6.5)"
-           style="font-variant:normal;font-weight:bold;font-size:16px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text2594"><tspan
-             x="0 9.1999998 18.384001 22.511999 31.695999 41.183998"
-             y="0"
-             sodipodi:role="line"
-             id="tspan2592">Valeur</tspan></text>
-      </g>
-      <g
-         id="g2602"
-         transform="matrix(0.21463038,0,0,0.21447587,-23.556435,91.842948)">
-        <text
-           transform="translate(-20.584,16)"
-           style="font-variant:normal;font-weight:bold;font-size:16px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text2606"><tspan
-             x="0 12.144 18.368 27.552 31.68"
-             y="0"
-             sodipodi:role="line"
-             id="tspan2604">Grain</tspan></text>
-      </g>
-      <g
-         id="g2608"
-         transform="matrix(0.21463038,0,0,0.21447587,-1.4053745,99.993023)">
-        <text
-           transform="translate(-30.072,-22)"
-           style="font-variant:normal;font-weight:bold;font-size:16px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text2612"><tspan
-             x="0 11.856 21.632 31.120001 35.248001 44.431999 53.919998"
-             y="0"
-             sodipodi:role="line"
-             id="tspan2610">Couleur</tspan></text>
-      </g>
-      <g
-         id="g2620"
-         transform="matrix(0.21463038,0,0,0.21447587,20.95326,91.842948)">
-        <text
-           transform="translate(-42.656,16)"
-           style="font-variant:normal;font-weight:bold;font-size:16px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text2624"><tspan
-             x="0 12.448 18.672001 22.799999 31.983999 41.472 47.104 56.287998 61.919998 66.047997 75.823997"
-             y="0"
-             sodipodi:role="line"
-             id="tspan2622">Orientation</tspan></text>
-      </g>
-      <g
-         id="g2626"
-         transform="matrix(0.21463038,0,0,0.21447587,42.580918,87.715125)">
-        <text
-           transform="translate(-24.584,35)"
-           style="font-variant:normal;font-weight:bold;font-size:16px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text2630"><tspan
-             x="0 9.4879999 19.264 25.488001 39.984001"
-             y="0"
-             sodipodi:role="line"
-             id="tspan2628">Forme</tspan></text>
-      </g>
+       id="g2584"
+       transform="matrix(0.23249519,0,0,0.23232783,-66.44118,93.026172)">
+      <text
+         transform="translate(-19.376,6.5)"
+         style="font-variant:normal;font-weight:bold;font-size:16px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text2588"><tspan
+           x="0 8 17.184 21.312 25.440001 29.568001"
+           y="0"
+           sodipodi:role="line"
+           id="tspan2586"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'">Taille</tspan></text>
+    </g>
+    <g
+       id="g2590"
+       transform="matrix(0.23249519,0,0,0.23232783,-29.418779,93.026172)">
+      <text
+         transform="translate(-23.704,6.5)"
+         style="font-variant:normal;font-weight:bold;font-size:16px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text2594"><tspan
+           x="0 9.1999998 18.384001 22.511999 31.695999 41.183998"
+           y="0"
+           sodipodi:role="line"
+           id="tspan2592"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'">Valeur</tspan></text>
+    </g>
+    <g
+       id="g2602"
+       transform="matrix(0.23249519,0,0,0.23232783,7.7202592,90.840838)">
+      <text
+         transform="translate(-20.584,16)"
+         style="font-variant:normal;font-weight:bold;font-size:16px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text2606"><tspan
+           x="0 12.144 18.368 27.552 31.68"
+           y="0"
+           sodipodi:role="line"
+           id="tspan2604"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'">Grain</tspan></text>
+    </g>
+    <g
+       id="g2608"
+       transform="matrix(0.23249519,0,0,0.23232783,44.188822,99.669297)">
+      <text
+         transform="translate(-30.072,-22)"
+         style="font-variant:normal;font-weight:bold;font-size:16px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text2612"><tspan
+           x="0 11.856 21.632 31.120001 35.248001 44.431999 53.919998"
+           y="0"
+           sodipodi:role="line"
+           id="tspan2610"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'">Couleur</tspan></text>
+    </g>
+    <g
+       id="g2620"
+       transform="matrix(0.23249519,0,0,0.23232783,81.425036,90.840838)">
+      <text
+         transform="translate(-42.656,16)"
+         style="font-variant:normal;font-weight:bold;font-size:16px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text2624"><tspan
+           x="0 12.448 18.672001 22.799999 31.983999 41.472 47.104 56.287998 61.919998 66.047997 75.823997"
+           y="0"
+           sodipodi:role="line"
+           id="tspan2622"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:arial;-inkscape-font-specification:'arial Bold'">Orientation</tspan></text>
+    </g>
+    <g
+       id="g2626"
+       transform="matrix(0.23249519,0,0,0.23232783,117.43856,86.40483)">
+      <text
+         transform="translate(-24.584,35)"
+         style="font-variant:normal;font-weight:bold;font-size:16px;font-family:HelveticaNeue;-inkscape-font-specification:HelveticaNeue-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text2630"><tspan
+           x="0 9.4879999 19.264 25.488001 39.984001"
+           y="0"
+           sodipodi:role="line"
+           id="tspan2628"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'">Forme</tspan></text>
+    </g>
+    <g
+       id="g25904"
+       transform="matrix(1.6075313,0,0,1.6075313,45.776807,-57.737405)">
       <g
          id="g20922"
-         transform="translate(13.741855,-1.959402)">
+         transform="translate(13.813658,-1.9008544)">
         <path
            id="rect11428-1-1"
            style="fill:url(#pattern11455-4-4);stroke:#1a171b;stroke-width:0.0505421;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
@@ -1085,7 +1091,7 @@
       </g>
       <g
          id="g7443-3"
-         transform="translate(-27.576993,-31.205738)">
+         transform="translate(-27.928517,-31.14719)">
         <g
            id="g7397-6">
           <path
@@ -1262,7 +1268,7 @@
       </g>
       <g
          id="g7224"
-         transform="translate(-23.944792,-30.939523)">
+         transform="translate(-24.719651,-30.880975)">
         <g
            id="g7132">
           <path
@@ -1595,7 +1601,7 @@
       </g>
       <g
          id="g7759"
-         transform="translate(42.547082,-90.349368)">
+         transform="translate(43.04222,-90.29082)">
         <g
            id="g7659">
           <path
@@ -1833,7 +1839,7 @@
       </g>
       <g
          id="g8483"
-         transform="matrix(0.99666855,0,0,0.99666855,65.316342,-112.00943)">
+         transform="matrix(0.99666855,0,0,0.99666855,66.234815,-111.95088)">
         <g
            id="g8342">
           <path
@@ -2386,7 +2392,7 @@
       </g>
       <g
          id="g8641"
-         transform="matrix(1.0608395,0,0,1.0608395,66.127747,-124.65512)">
+         transform="matrix(1.0608395,0,0,1.0608395,67.469556,-124.59657)">
         <g
            id="g8537">
           <path
