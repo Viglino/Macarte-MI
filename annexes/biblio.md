@@ -80,3 +80,6 @@ Claus O. Wilke. Fundamentals of Data Visualization. O'Reilly Media, 2019. [PDF](
 
 ## Bloch, 2006
 Bloch, Harrower. Mapshaper.org: a map generalization web service, Autocarto  2006 [PDF](https://www.cartogis.org/docs/proceedings/2006/bloch_harrower.pdf)
+
+## Perrier, 2007
+Lætitia Perrier Bruslé, Anne Hecker. Le langage de la carte - [PDF](http://laeti.perrierbrusle.free.fr/U303_seance1.pdf)
