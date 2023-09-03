@@ -25,3 +25,4 @@ Si comme le dit Joseph Joubert « La parole entraîne, l'exemple enseigne », ce
 * Une carte de voyage (Nautilus)
 * Une carte comme l'INSEE
 * Faire une carte bivariée
+* Carte de la terre du milieu
