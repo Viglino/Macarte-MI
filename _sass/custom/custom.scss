@@ -104,6 +104,8 @@ p.tag::before, blockquote.tag::before {
   color: #53a6ee;
   font-size: 1.5em;
   margin-top: 0;
+  font-family: 'FontAwesome';
+  margin-right: 0.25em;
 }
 
 p.warning::before, blockquote.warning::before {
