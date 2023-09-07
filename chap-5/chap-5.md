@@ -22,7 +22,5 @@ Stéphanodrome par Augustin Estienne, 1844 - [Gallica BnF](https://gallica.bnf.f
 
 Si comme le dit Joseph Joubert « La parole entraîne, l'exemple enseigne », cette section présente quelques cartes et la manière de les reproduire.
 
-* Une carte de voyage (Nautilus)
-* Une carte comme l'INSEE
 * Faire une carte bivariée
 * Carte de la terre du milieu
