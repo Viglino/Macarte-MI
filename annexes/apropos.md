@@ -19,13 +19,30 @@ image: /assets/banner/biblio.jpg
 {: .avatar}
 ![](https://avatars.githubusercontent.com/u/7868217)
 **Jean-Marc Viglino** 🧭   
-Ingénieur à l'IGN, je travaille au développement d'outils dans le domaine du web, de l'Opensource et du Mobile.
+Ingénieur à l'IGN, je travaille au développement d'outils dans le domaine du web, de l'open source et du mobile.
 
 [<i class="fa fa-twitter"></i> @jmviglino](https://twitter.com/jmviglino "me suivre sur Twitter") -
 [<i class="fa fa-github"></i> Viglino](https://github.com/Viglino "mes projets opensource") -
 [<i class="fa fa-map"></i> Mes cartes](https://macarte.ign.fr/utilisateur/Viglino_jmsS "consulter mes cartes !")
 
-## Licence [CC-By-4.0](https://github.com/Viglino/Macarte-MI/blob/main/LICENSE.txt)
+## Ma carte
+
+Initié en 2008, en partenariat avec l'Education Nationale, [le projet Edugéo](http://mappemonde-archive.mgm.fr/num24/internet/int09401.html) est une [application web](https://fr.wikipedia.org/wiki/Application_web) qui permet de publier des croquis sur des cartes en ligne et un site proposant des ressources pédagogique pour les enseignants.   
+Initialement réservé aux enseignant et aux élèves de l'Education Nationale, une version grand public est développé en 2015 sous le nom de [Ma carte](https://macarte.ign.fr/). Elle sortira en 2016 avec un outil de géocodage (mes adresses). En 2017, deux nouveaux outils, pour réaliser des cartes statistiques et pour personnalisez ses narrations, viennent s'ajouter à la liste des applications disponibles.   
+La version 4 de Ma carte (2022), vient ajouter un atlas et une iFrame-API pour piloter une carte en Javascript.   
+Le code est [diffusé en open source](https://github.com/IGNF-Ma-carte) depuis juin 2023.
+
+| ![](/Macarte-MI/assets/img/a-edugeo.jpg) | ![](/Macarte-MI/assets/img/a-edugeo2.jpg) |
+|:----:|:----:|
+| interface Edugéo en 2008 | Edugéo - éditions (2008) |
+| ![](/Macarte-MI/assets/img/a-macartev2.jpg) | ![](/Macarte-MI/assets/img/a-macartev4.jpg) |
+| Ma carte - édition (2016) | Ma carte - édition (2023) |
+
+J'ai eu la chance de travailler sur ce projet depuis ses débuts en 2008, avec la première API du Géoportail, jusqu'à la version aujourd'hui.
+
+## Licence CC-By-4.0
+
+Le contenu de ce site est diffusé sous [licence CC-By-4.0](https://github.com/Viglino/Macarte-MI/blob/main/LICENSE.txt)
 
 Vous pouvez :
 * **Partager** - copier, distribuer et communiquer le matériel par tous moyens et sous tous formats
