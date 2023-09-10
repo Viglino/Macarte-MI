@@ -4,6 +4,36 @@
   }
 }
 
+.construct {
+  position: relative;
+  background-color: #fff;
+}
+.construct:before {
+  content: "";
+  position: absolute;
+  inset: -.5em;
+  z-index:-1;
+  background: repeating-linear-gradient(
+    -45deg,
+    #e7af06,
+    #e7af06 5px,
+    #ff0 5px,
+    #ff0 10px
+  );
+}
+.construct:after {
+  content: "\f085";
+  color: #e7af06;
+  font-weight: normal;
+  font-family: FontAwesome;
+  float: left;
+  font-size: 2.2em;
+  line-height: 1em;
+  margin-right: 0.3em;
+  margin-top: -0.1em;
+  margin-bottom: -0.2em;
+}
+
 .main-content h1, .main-content h2 {
   clear: both;
 }

@@ -8,5 +8,9 @@
     "Géoservice",
     "Geospatial",
     "Géoweb"
+  ],
+  "cSpell.enableFiletypes": [
+    "!less",
+    "!scss"
   ]
 }
