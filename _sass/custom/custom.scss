@@ -347,3 +347,26 @@ code.small {
     margin-top: 0!important;
   }
 }
+
+/* Fullscreen */
+[data-fullscreen] {
+  position: fixed;
+  inset: 0;
+  background-color: rgba(0,0,0,.5);
+  z-index: 1000;
+  opacity: 0;
+  pointer-events: none;
+  transition: .5s;
+}
+[data-fullscreen].visible {
+  opacity: 1;
+  pointer-events: all;
+}
+[data-fullscreen] img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  max-width: calc(100% - 2em);
+  max-height: calc(100% - 2em);
+}

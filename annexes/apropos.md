@@ -32,10 +32,10 @@ Initialement réservé aux enseignant et aux élèves de l'Education Nationale, 
 La version 4 de Ma carte (2022), vient ajouter un atlas et une iFrame-API pour piloter une carte en Javascript.   
 Le code est [diffusé en open source](https://github.com/IGNF-Ma-carte) depuis juin 2023.
 
-| ![](/Macarte-MI/assets/img/a-edugeo.jpg) | ![](/Macarte-MI/assets/img/a-edugeo2.jpg) |
+| ![](/Macarte-MI/assets/img/a-edugeo.jpg){: .fullscreen } | ![](/Macarte-MI/assets/img/a-edugeo2.jpg){: .fullscreen } |
 |:----:|:----:|
 | interface Edugéo en 2008 | Edugéo - éditions (2008) |
-| ![](/Macarte-MI/assets/img/a-macartev2.jpg) | ![](/Macarte-MI/assets/img/a-macartev4.jpg) |
+| ![](/Macarte-MI/assets/img/a-macartev2.jpg){: .fullscreen } | ![](/Macarte-MI/assets/img/a-macartev4.jpg){: .fullscreen } |
 | Ma carte - édition (2016) | Ma carte - édition (2023) |
 
 J'ai eu la chance de travailler sur ce projet depuis ses débuts en 2008, avec la première API du Géoportail, jusqu'à la version aujourd'hui.
