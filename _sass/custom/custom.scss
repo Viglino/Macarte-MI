@@ -8,7 +8,7 @@
   position: relative;
   background-color: #fff;
 }
-.construct:before {
+.construct:after {
   content: "";
   position: absolute;
   inset: -.5em;
@@ -21,7 +21,7 @@
     #ff0 10px
   );
 }
-.construct:after {
+.construct:before {
   content: "\f085";
   color: #e7af06;
   font-weight: normal;
@@ -349,6 +349,15 @@ code.small {
 }
 
 /* Fullscreen */
+img.fullscreen {
+  cursor: zoom-in;
+  position: relative;
+  transition: .5s;
+}
+img.fullscreen:hover {
+  transform: scale(1.1);
+}
+
 [data-fullscreen] {
   position: fixed;
   inset: 0;

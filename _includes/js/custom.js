@@ -12,9 +12,7 @@ document.addEventListener("DOMContentLoaded", function() {
   function setImage(img) {
     img.addEventListener('click', function() {
       fullscreenImg.src = img.src;
-      setTimeout(function() {
-        fullscreen.className = 'visible';
-      }, 300)
+      fullscreen.className = 'visible';
     })
   }
   var fscreen = document.querySelectorAll('img.fullscreen');
