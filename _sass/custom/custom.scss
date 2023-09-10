@@ -8,6 +8,10 @@
   position: relative;
   background-color: #fff;
 }
+blockquote.construct {
+  padding: 1em;
+}
+
 .construct:after {
   content: "";
   position: absolute;
@@ -355,7 +359,7 @@ img.fullscreen {
   transition: .5s;
 }
 img.fullscreen:hover {
-  transform: scale(1.1);
+  transform: scale(1.025);
 }
 
 [data-fullscreen] {
