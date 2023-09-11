@@ -27,4 +27,4 @@ toc:
   h_max: 3
 
 # customize the link favicon in header, will be {{site.baseurl}}/{{site.favicon_path}}
-favicon_path:     /assets/favicon.ico
+# favicon_path:     assets/favicon.ico
