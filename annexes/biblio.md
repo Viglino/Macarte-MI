@@ -83,3 +83,9 @@ Bloch, Harrower. Mapshaper.org: a map generalization web service, Autocarto  200
 
 ## Perrier, 2007
 Lætitia Perrier Bruslé, Anne Hecker. Le langage de la carte - [PDF](http://laeti.perrierbrusle.free.fr/U303_seance1.pdf)
+
+## Dupuy, 2017
+Dupuy, L. (2017). Le dialogue des imaginaires. Formes du monstrueux et merveilleux géographique dans Voyage au centre de la Terre (Jules Verne, 1867). Cahiers de géographie du Québec, 61(172), 117–131 - [PDF](https://doi.org/10.7202/1042718ar)
+
+## Puyo, 2019
+Puyo Jean-Yves. Tintin et le merveilleux geographique. Conférence à Institut français d'Alger, 2019 - [Podcast](https://www.culturetheque.com/Default/doc/SYRACUSE/9210)

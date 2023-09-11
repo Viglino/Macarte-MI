@@ -11,3 +11,9 @@ image: /assets/banner/fantasy.jpg
 # Annexes
 
 ![](/Macarte-MI/assets/banner/fantasy.jpg){: .banner }
+
+{: .quote }
+> On ouvre les atlas, on rêve sur les cartes. On répète les noms magnifiques des villes inconnues.
+>
+> {: .right }
+> La Vallée des rubis (1955) de Joseph Kessel

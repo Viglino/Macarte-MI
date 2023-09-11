@@ -26,9 +26,10 @@ Carte de l’océan Pacifique - Hessel Gerritsz, [Amsterdam], 1622 &copy; [BnF](
 - Ce qui fait de toi... l'homme aux cartes !
 Pirates Des Caraïbes, Jusqu'au Bout Du Monde - Jack et Barbossa
 
-On ouvre les atlas, on rêve sur les cartes. On répète les noms magnifiques des villes inconnues.
-La Vallée des rubis (1955) de Joseph Kessel
 -->
+
+{: .construct }
+> **En cours de construction**
 
 * Le mapfail
 * Mentir avec les cartes
