@@ -42,7 +42,7 @@ J'ai eu la chance de travailler sur ce projet depuis ses débuts en 2008, avec l
 
 ## Licence CC-By-4.0
 
-![](/Macarte-MI/assets/img/cc-by.png){:width="5em"}
+![](/Macarte-MI/assets/img/cc-by.png){:width="100px"}
 
 Le contenu de ce site est diffusé sous [licence CC-By-4.0](https://github.com/Viglino/Macarte-MI/blob/main/LICENSE.txt)
 
