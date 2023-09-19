@@ -15,7 +15,9 @@ image: /assets/banner/dessin.jpg
 {: .banner }
 ![](/Macarte-MI/assets/banner/dessin.jpg)
 
-Les cartes géographiques fournissent une représentation graphique du monde réel qui permet au lecteur de voir la localisation des objets ou des phénomènes qui l'intéressent.
-
-{: .idea }
-*Quelque part sur terre...*
+{: .quote }
+> - Qu'est-ce que vous regardez ? C'est la carte routière ? 
+> - Non ! C'est la carte des vins. C'est pour éviter les bouchons !
+>
+> {: .right }
+> Raymond Devos
