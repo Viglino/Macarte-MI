@@ -15,7 +15,7 @@ image: /assets/banner/biblio.jpg
 ![](/Macarte-MI/assets/banner/carte-du-tendre.jpg){: .banner }   
 La Carte de Tendre, François Chauveau 1654. [BNF](http://expositions.bnf.fr/cartes/grand/sq11-06.htm) 
 
-Vous trouverez ci-dessous différentes source d'inspiration pour vos futures cartes.
+Vous trouverez ci-dessous différentes sources d'inspiration pour vos futures cartes.
 
 ## Atlas Ma carte
 Ma carte propose un Atlas des cartes publiées par les utilisateurs - [voir en ligne](https://macarte.ign.fr/atlas/?mode=gallery)
