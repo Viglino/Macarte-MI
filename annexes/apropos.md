@@ -28,7 +28,7 @@ Ingénieur à l'IGN, je travaille au développement d'outils dans le domaine du 
 ## Ma carte
 
 Initié en 2008, en partenariat avec l'Education Nationale, [le projet Edugéo](http://mappemonde-archive.mgm.fr/num24/internet/int09401.html) est une [application web](https://fr.wikipedia.org/wiki/Application_web) qui permet de publier des croquis sur des cartes en ligne et un site proposant des ressources pédagogique pour les enseignants.   
-Initialement réservé aux enseignant et aux élèves de l'Education Nationale, une version grand public est développé en 2015 sous le nom de [Ma carte](https://macarte.ign.fr/). Elle sortira en 2016 avec un outil de géocodage (mes adresses). En 2017, deux nouveaux outils, pour réaliser des cartes statistiques et pour personnalisez ses narrations, viennent s'ajouter à la liste des applications disponibles.   
+Initialement réservé aux enseignants et aux élèves de l'Education Nationale, une version grand public est développé en 2015 sous le nom de [Ma carte](https://macarte.ign.fr/). Elle sortira en 2016 avec un outil de géocodage (mes adresses). En 2017, deux nouveaux outils, pour réaliser des cartes statistiques et pour personnaliser ses narrations, viennent s'ajouter à la liste des applications disponibles.   
 La version 4 de Ma carte (2022), vient ajouter un atlas et une iFrame-API pour piloter une carte en Javascript.   
 Le code est [diffusé en open source sur Github](https://github.com/IGNF-Ma-carte) depuis juin 2023 et référencé sur le [Socle Interministériel des Logiciels Libres](https://code.gouv.fr/sill/detail?name=Ma%20carte).
 
