@@ -16,8 +16,8 @@ image: /assets/banner/dessin.jpg
 ![](/Macarte-MI/assets/banner/dessin.jpg)
 
 {: .quote }
-> - Qu'est-ce que vous regardez&nbsp;? C'est la carte routière&nbsp;? 
-> - Non ! C'est la carte des vins. C'est pour éviter les bouchons&nbsp;!
+> Qu'est-ce que vous regardez&nbsp;? C'est la carte routière&nbsp;?   
+> — Non ! C'est la carte des vins. C'est pour éviter les bouchons&nbsp;!
 >
 > {: .right }
 > Raymond Devos
