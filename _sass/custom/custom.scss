@@ -322,6 +322,16 @@ code.circle {
 code.small {
   font-size: .8em;
 }
+i.blue-disk {
+  display: inline-block;
+  background-color: #3993f3;
+  color: #fff;
+  border-radius: 50%;
+  line-height: 1.2em;
+  width: 1.4em;
+  height: 1.4em;
+  text-align: center;
+}
 
 .outline {
   color: #fff;
