@@ -26,6 +26,12 @@ Parmi la liste des réutilisations sur [data.gouv.fr](https://www.data.gouv.fr/f
 ## Les géographies imaginaires
 Exposition interactive de la BnF - [voir en ligne](https://fantasy.bnf.fr/fr/transmettre/les-geographies-imaginaires/)
 
+## Quand le design éclaire la data
+Exposition dédiée à la datavisualisation lors de la semaine [Aux data citoyens](https://www.iledefrance.fr/aux-data-citoyens-participez-la-1re-semaine-francilienne-de-la-donnee) à l'Institut Paris Région - [voir en ligne](https://view.genial.ly/6501aa4be030350011cb9d30)   
+Podcast de la table ronde [Quand le design éclaire la data](https://podcast.ausha.co/debats-rencontres-ipr/quand-le-design-eclaire-la-data)   
+<iframe data-src="https://player.ausha.co/index.html?podcastId=BM8XDCKQZJO1&display=horizontal&color=ff0000&v=2&rel=twitter&autoplay=1&auto_play=true" frameborder="0" scrolling="no" allowfullscreen="true" allowtransparency="true" allow="autoplay; fullscreen; web-share" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-presentation" src="https://player.ausha.co/index.html?podcastId=BM8XDCKQZJO1&display=horizontal&color=ff0000&v=2&rel=twitter&autoplay=1&auto_play=true" width="100%" height="200px">
+</iframe>
+
 ## Géoinformation - tout se passe quelque part
 Sur la chaine Youtube de Swiss Geoportail
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8R0GbAp3APw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

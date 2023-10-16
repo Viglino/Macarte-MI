@@ -38,7 +38,7 @@ Le code est [diffusé en open source sur Github](https://github.com/IGNF-Ma-cart
 | ![](/Macarte-MI/assets/img/a-macartev2.jpg){: .fullscreen } | ![](/Macarte-MI/assets/img/a-macartev4.jpg){: .fullscreen } |
 | Ma carte - édition (2016) | Ma carte - édition (2023) |
 
-J'ai eu la chance de travailler sur ce projet depuis ses débuts en 2008, avec la première API du Géoportail, jusqu'à la version aujourd'hui.
+J'ai eu la chance de travailler sur ce projet depuis ses débuts en 2008, avec la première API du Géoportail, jusqu'à la version d'aujourd'hui.
 
 ## Licence CC-By-4.0
 
