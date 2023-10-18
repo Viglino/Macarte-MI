@@ -6,7 +6,7 @@
 
 *80% des décisions que les gens prennent ont une référence spatiale.*
 
-> Cette publication vous donne un aperçu des possibilités offertent par les nouveaux outils du géoweb pour manipuler des données sur des cartes et les mettre en ligne.   
+> Cette publication vous donne un aperçu des possibilités offertes par les nouveaux outils du géoweb pour manipuler des données sur des cartes et les mettre en ligne.   
 Elle montre comment bénéficier de la géoinformation en tant qu'individus ou société, pour des utilisations en politique, dans les affaires, dans la recherche ou dans l'éducation.
 
 
