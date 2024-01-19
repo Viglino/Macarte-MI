@@ -66,6 +66,9 @@ Gilles Palsky, La Sémiologie graphique de Jacques Bertin a cinquante ans ! visi
 ## Lambert et al. 2016
 Lambert N. et Zanin C. Manuel de cartographie. Principes, méthodes, applications. Paris : Armand Colin, coll. « Cursus : Géographie », 224 p. 2016.
 
+## Bahoken et al. 2024
+Françoise Bahoken et Nicolas Lambert, Le cartogramme par points, Cybergeo: European Journal of Geography, 18 janvier 2024 - [voir en ligne](https://doi.org/10.4000/cybergeo.40820)
+
 ## Occelli, 2018
 Florent Occelli. Traitement, analyse et cartographie. SIEGLES. 2018 - [voir en ligne](https://www.sigles-sante-environnement.fr/cartographies/methodologie/)
 
