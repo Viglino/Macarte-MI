@@ -92,3 +92,6 @@ Dupuy, L. (2017). Le dialogue des imaginaires. Formes du monstrueux et merveille
 
 ## Puyo, 2019
 Puyo Jean-Yves. Tintin et le merveilleux geographique. Conférence à Institut français d'Alger, 2019 - [Podcast](https://www.culturetheque.com/Default/doc/SYRACUSE/9210)
+
+## Friendly, 2024
+Michael Friendly. Psyc 6135: Psychology of Data Visualization. Course web site. Winter, 2024 [voir en ligne](https://friendly.github.io/6135/index.html)
