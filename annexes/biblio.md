@@ -94,4 +94,7 @@ Dupuy, L. (2017). Le dialogue des imaginaires. Formes du monstrueux et merveille
 Puyo Jean-Yves. Tintin et le merveilleux geographique. Conférence à Institut français d'Alger, 2019 - [Podcast](https://www.culturetheque.com/Default/doc/SYRACUSE/9210)
 
 ## Friendly, 2024
-Michael Friendly. Psyc 6135: Psychology of Data Visualization. Course web site. Winter, 2024 [voir en ligne](https://friendly.github.io/6135/index.html)
+Michael Friendly. Psyc 6135: Psychology of Data Visualization. Course web site. Winter, 2024 - [voir en ligne](https://friendly.github.io/6135/index.html)
+
+## Smith, 2024
+Heather Smith. Visual hierarchy for maps. ArcGIS Blog, Educatio, janv. 2024 - [voir en ligne](https://www.esri.com/arcgis-blog/products/arcgis-online/education/visual-hierarchy-for-maps/)
