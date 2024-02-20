@@ -6,9 +6,16 @@
 
 *80% des décisions que les gens prennent ont une référence spatiale.*
 
+> [!NOTE]
 > Cette publication vous donne un aperçu des possibilités offertes par les nouveaux outils du géoweb pour manipuler des données sur des cartes et les mettre en ligne.   
 Elle montre comment bénéficier de la géoinformation en tant qu'individus ou société, pour des utilisations en politique, dans les affaires, dans la recherche ou dans l'éducation.
 
+```
+— Qu'est-ce que vous regardez ? C'est la carte routière ?   
+— Non ! C'est la carte des vins. C'est pour éviter les bouchons !
+
+Raymond Devos
+```
 
 # [Modèles d'interface pour Ma carte](https://viglino.github.io/Macarte-MI/)
 

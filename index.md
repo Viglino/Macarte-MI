@@ -26,7 +26,7 @@ Avec le développement du [Géoweb](https://fr.wikipedia.org/wiki/Geoweb) et des
 Parallèlement, des outils de publication de cartes en lignes, comme [Ma carte](https://macarte.ign.fr/), ont fait leur apparition sur lesquels vous pouvez annoter n'importe quelle section de carte, y ajouter vos propres données, la partager, l'imprimer ou l'utiliser sur votre site internet.   
 Dans ces éditeurs de cartes, des centaines de thèmes différents peuvent être sélectionnés, combinés, comparés ou visualisés dans l'espace et dans le temps.
 
-Le mouvement [Open Data](https://fr.wikipedia.org/wiki/Donn%C3%A9es_ouvertes), qui promeut la mise à disposition de plus en plus [de données géographiques](https://www.data.gouv.fr/fr/pages/donnees-geographiques/) par des organismes publiques ou privés, offre de nouvelles perspectives pour exploiter et valoriser de nouvelles données et fait apparaître de nouveaux besoins. 
+Le mouvement [Open Data](https://fr.wikipedia.org/wiki/Donn%C3%A9es_ouvertes), qui promeut la mise à disposition de plus en plus [de données géographiques](https://www.data.gouv.fr/fr/pages/donnees-geographiques/) par des organismes publiques ou privés, offre de nouvelles perspectives pour exploiter et valoriser ces données et fait apparaître de nouveaux besoins. 
 
 {: .idea }
 Cette publication vous donne un aperçu des possibilités offertes par ces nouveaux outils pour manipuler des données sur des cartes et les mettre en ligne.   
