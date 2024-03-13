@@ -98,3 +98,7 @@ Michael Friendly. Psyc 6135: Psychology of Data Visualization. Course web site. 
 
 ## Smith, 2024
 Heather Smith. Visual hierarchy for maps. ArcGIS Blog, Educatio, janv. 2024 - [voir en ligne](https://www.esri.com/arcgis-blog/products/arcgis-online/education/visual-hierarchy-for-maps/)
+
+## Nacef, 2023
+Yannis Nacef, L'usage des lieux dans les films de Jean-Paul Belmondo. Géographies du travail - Carnets de recherches Varia, 2023 - [voir en ligne](https://journals.openedition.org/cdg/9228)
+
