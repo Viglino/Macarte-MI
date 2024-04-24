@@ -105,3 +105,5 @@ Heather Smith. Visual hierarchy for maps. ArcGIS Blog, Educatio, janv. 2024 - [v
 ## Nacef, 2023
 Yannis Nacef, L'usage des lieux dans les films de Jean-Paul Belmondo. Géographies du travail - Carnets de recherches Varia, 2023 - [voir en ligne](https://journals.openedition.org/cdg/9228)
 
+## GISGeography, 2024
+GISGeography, The Remarkable History of GIS -  GISGeography, march 2024 - [voir en ligne](https://gisgeography.com/history-of-gis/)
