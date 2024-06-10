@@ -38,4 +38,4 @@ Sur la chaine Youtube de Swiss Geoportail
 
 ## La Géomatique (c'est fantastique)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FzLneuWw5I0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=Aol6rnvn2Dz-i5yn&amp;list=PLIUtpy0BAbTImladeR58c_EtFfIQ0h0Af" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
