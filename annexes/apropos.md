@@ -23,7 +23,8 @@ Ingénieur à l'IGN, je travaille au développement d'outils dans le domaine du 
 
 [<i class="fa fa-twitter"></i> @jmviglino](https://twitter.com/jmviglino "me suivre sur Twitter") -
 [<i class="fa fa-github"></i> Viglino](https://github.com/Viglino "mes projets opensource") -
-[<i class="fa fa-map"></i> Mes cartes](https://macarte.ign.fr/utilisateur/Viglino_jmsS "consulter mes cartes !")
+[<i class="fa fa-map"></i> Mes cartes](https://macarte.ign.fr/utilisateur/Viglino_jmsS "consulter mes cartes !") - 
+[<i class="fa fa-map-signs"></i> #30DayMapChallenge2023](https://viglino.github.io/MapChallenge2023/)
 
 ## Ma carte
 
