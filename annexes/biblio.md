@@ -93,6 +93,9 @@ Dupuy, L. (2017). Le dialogue des imaginaires. Formes du monstrueux et merveille
 ## Puyo, 2019
 Puyo Jean-Yves. Tintin et le merveilleux geographique. Conférence à Institut français d'Alger, 2019 - [Podcast](https://www.culturetheque.com/Default/doc/SYRACUSE/9210)
 
+## Dougherty, 2021
+J. Dougherty, I. Ilyankou. Hands-On Data Visualization, Interactive Storytelling from Spreadsheets to Code. O'Reilly, mai 2021 - [voir en ligne](https://handsondataviz.org/)
+
 ## Gaigg, 2023
 Michael Gaigg. Design Patterns For Effective Maps UX, mars 2023 - [voir en ligne](https://www.mapuipatterns.com/)
 
