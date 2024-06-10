@@ -93,6 +93,9 @@ Dupuy, L. (2017). Le dialogue des imaginaires. Formes du monstrueux et merveille
 ## Puyo, 2019
 Puyo Jean-Yves. Tintin et le merveilleux geographique. Conférence à Institut français d'Alger, 2019 - [Podcast](https://www.culturetheque.com/Default/doc/SYRACUSE/9210)
 
+## Gaigg, 2023
+Michael Gaigg. Design Patterns For Effective Maps UX, mars 2023 - [voir en ligne](https://www.mapuipatterns.com/)
+
 ## Joliveau, 2023
 T. Joliveau. Géomaticienne, ce métier existe-t-il vraiment ? Oui d'après Télé-Loisirs, qui a vu la série Sambre. (e)space & fiction, 4 décembre 2023 - [voir en ligne](https://spacefiction.fr/2023/12/04/geomaticienne-ce-metier-existe-t-il-vraiment-oui-dapres-tele-loisirs-qui-a-vu-la-serie-sambre/)
 
