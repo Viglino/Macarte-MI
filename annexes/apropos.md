@@ -13,6 +13,13 @@ image: /assets/banner/biblio.jpg
 
 ![](/Macarte-MI/assets/banner/fantasy.jpg){: .banner }
 
+{: .quote }
+> On me dit que certains ne s’intéressent pas aux cartes ; j’ai peine à le croire…
+>
+> {: .right }
+> Robert Louis Stevenson
+
+
 ## L'auteur
 ---
 
