@@ -93,6 +93,12 @@ Dupuy, L. (2017). Le dialogue des imaginaires. Formes du monstrueux et merveille
 ## Puyo, 2019
 Puyo Jean-Yves. Tintin et le merveilleux geographique. Conférence à Institut français d'Alger, 2019 - [Podcast](https://www.culturetheque.com/Default/doc/SYRACUSE/9210)
 
+## Dougherty, 2021
+J. Dougherty, I. Ilyankou. Hands-On Data Visualization, Interactive Storytelling from Spreadsheets to Code. O'Reilly, mai 2021 - [voir en ligne](https://handsondataviz.org/)
+
+## Gaigg, 2023
+Michael Gaigg. Design Patterns For Effective Maps UX, mars 2023 - [voir en ligne](https://www.mapuipatterns.com/)
+
 ## Joliveau, 2023
 T. Joliveau. Géomaticienne, ce métier existe-t-il vraiment ? Oui d'après Télé-Loisirs, qui a vu la série Sambre. (e)space & fiction, 4 décembre 2023 - [voir en ligne](https://spacefiction.fr/2023/12/04/geomaticienne-ce-metier-existe-t-il-vraiment-oui-dapres-tele-loisirs-qui-a-vu-la-serie-sambre/)
 
@@ -105,3 +111,8 @@ Heather Smith. Visual hierarchy for maps. ArcGIS Blog, Educatio, janv. 2024 - [v
 ## Nacef, 2023
 Yannis Nacef, L'usage des lieux dans les films de Jean-Paul Belmondo. Géographies du travail - Carnets de recherches Varia, 2023 - [voir en ligne](https://journals.openedition.org/cdg/9228)
 
+## GISGeography, 3-2024
+GISGeography, The Remarkable History of GIS -  GISGeography, march 2024 - [voir en ligne](https://gisgeography.com/history-of-gis/)
+
+## GISGeography, 5-2024
+33 Map Elements to Include in Cartographic Design -  GISGeography, may 2024 - [voir en ligne](https://gisgeography.com/map-elements-how-to-guide-map-making/)

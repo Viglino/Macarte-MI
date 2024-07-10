@@ -13,6 +13,13 @@ image: /assets/banner/biblio.jpg
 
 ![](/Macarte-MI/assets/banner/fantasy.jpg){: .banner }
 
+{: .quote }
+> On me dit que certains ne s’intéressent pas aux cartes ; j’ai peine à le croire…
+>
+> {: .right }
+> Robert Louis Stevenson
+
+
 ## L'auteur
 ---
 
@@ -23,7 +30,8 @@ Ingénieur à l'IGN, je travaille au développement d'outils dans le domaine du 
 
 [<i class="fa fa-twitter"></i> @jmviglino](https://twitter.com/jmviglino "me suivre sur Twitter") -
 [<i class="fa fa-github"></i> Viglino](https://github.com/Viglino "mes projets opensource") -
-[<i class="fa fa-map"></i> Mes cartes](https://macarte.ign.fr/utilisateur/Viglino_jmsS "consulter mes cartes !")
+[<i class="fa fa-map"></i> Mes cartes](https://macarte.ign.fr/utilisateur/Viglino_jmsS "consulter mes cartes !") - 
+[<i class="fa fa-map-signs"></i> #30DayMapChallenge2023](https://viglino.github.io/MapChallenge2023/)
 
 ## Ma carte
 

@@ -35,3 +35,7 @@ Podcast de la table ronde [Quand le design éclaire la data](https://podcast.aus
 ## Géoinformation - tout se passe quelque part
 Sur la chaine Youtube de Swiss Geoportail
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8R0GbAp3APw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## La Géomatique (c'est fantastique)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=Aol6rnvn2Dz-i5yn&amp;list=PLIUtpy0BAbTImladeR58c_EtFfIQ0h0Af" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
