@@ -33,6 +33,7 @@
 
   {%- assign prev_page = curent_root -%}
 
+<div style="display: none;">
   {%- for item in children_pages -%}
     {%- if item.url == page.url -%}
       {%- assign num_of_pages = forloop.length -%}
@@ -45,7 +46,9 @@
         {%- assign prev_page = children_pages[prev_i] -%}
       {%- endif -%}
     {%- endif -%}
+{{ item.title }} {{ forloop.index0 }} {{ next_i }} {{ prev_i }}
   {%- endfor -%}
+</div>
 {%- endif -%}
 
 <div class="footer-nav">
