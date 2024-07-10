@@ -26,7 +26,7 @@
 {%- endfor -%}
 
 {%- if page.parent -%}
-  {%- assign children_pages = sorted_pages 
+  {%- assign children_pages = sorted_pages_site 
     | where: "parent", page.parent
     | where_exp: "item", "item.title != nil"
     | where_exp: "item", "item.nav_exclude != true" -%}
@@ -34,7 +34,7 @@
   {%- assign prev_page = curent_root -%}
 
 <div style="display: none;">
-  {%- for item in sorted_pages -%}
+  {%- for item in children_pages -%}
 {{ item.title }}
     {%- if item.parent == page.parent -%}
       {%- if item.url == page.url -%}
