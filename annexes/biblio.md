@@ -116,3 +116,12 @@ GISGeography, The Remarkable History of GIS -  GISGeography, march 2024 - [voir 
 
 ## GISGeography, 5-2024
 33 Map Elements to Include in Cartographic Design -  GISGeography, may 2024 - [voir en ligne](https://gisgeography.com/map-elements-how-to-guide-map-making/)
+
+## Monmonier, 1991
+Mark Monmonier. Comment faire mentir les cartes, ou du mauvais usage de la géographie. Chicago, 1991 - [Ed. Autrement](https://www.autrement.com/comment-faire-mentir-les-cartes/9782746751125) - [Compte-rendu](https://www.persee.fr/doc/spgeo_0046-2497_1994_num_23_3_3317)
+
+## Tyner, 2015
+J. Tyner, Persuasive cartography, In : Monmonier M (ed) The history of cartography : Cartography in the twentieth century, Vol. 6 (2). University of Chicago Press, Chicago, pp 1087-95.
+
+## Palsky, 2024
+Gilles Palsky. Des cartes pour dénoncer l'impérialisme. Visonscarto.net, mai 2014 - [voir en ligne](https://www.visionscarto.net/des-cartes-pour-denoncer-l-imperialisme)
