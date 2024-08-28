@@ -40,7 +40,7 @@ Pour le dire autrement, les cartes nous mentent ! Parfois intentionnellement, ce
 > {: .right }
 > Mark Monmonier, Comment faire mentir les cartes
 
-## La spécificité des cartes
+## Le paradoxe cartographique
 
 Contrairement à d'autres formes de communication, comme la peinture, la sculpture ou même l'écriture, la carte est présumée être une source d'informations honnêtes et objectives, quasi mathématique et est directement ancrée dans le réelle : elle représente notre monde !
 
@@ -59,7 +59,3 @@ Et pourtant...
 
 * Le mapfail
 * Mentir avec les cartes
-* La cartographie persuasive
-<!-- 
-https://persuasivemaps.library.cornell.edu/
--->

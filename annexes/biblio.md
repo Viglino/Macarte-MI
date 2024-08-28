@@ -125,3 +125,12 @@ J. Tyner, Persuasive cartography, In : Monmonier M (ed) The history of cartograp
 
 ## Palsky, 2024
 Gilles Palsky. Des cartes pour dénoncer l'impérialisme. Visonscarto.net, mai 2014 - [voir en ligne](https://www.visionscarto.net/des-cartes-pour-denoncer-l-imperialisme)
+
+## Lambert, 2022
+Nicolas Lambert. Comment faire mentir les cartes. Néocarto, oct. 2022 - [voir en ligne](https://neocarto.hypotheses.org/16301)
+
+## Garel-Grislin, 2019
+Julie Garel-Grislin. Les coordonnées de la fiction : ce que la carte fait au récit. Revue de la BNF, vol. 59.2, 2019, pp. 22-30 - [voir en ligne](https://shs.cairn.info/revue-de-la-bibliotheque-nationale-de-france-2019-2-page-22)
+
+## Ferland, 1997
+Yaïves Ferland. Les défis théoriques posés à la cartographie mènent à la cognition. Cybergeo: European Journal of Geography, 1997 - [voir en ligne](https://doi.org/10.4000/cybergeo.499)
