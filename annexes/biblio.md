@@ -134,3 +134,6 @@ Julie Garel-Grislin. Les coordonnées de la fiction : ce que la carte fait au r�
 
 ## Ferland, 1997
 Yaïves Ferland. Les défis théoriques posés à la cartographie mènent à la cognition. Cybergeo: European Journal of Geography, 1997 - [voir en ligne](https://doi.org/10.4000/cybergeo.499)
+
+## Bischoff et al., 2024
+collectif. Écrire avec les cartes. Epistémocritique, Études réunies par Liouba Bischoff, Raphaël Luis et Julien Nègre, 2024 - [voir en ligne](https://epistemocritique.org/ecrire-avec-les-cartes/)
