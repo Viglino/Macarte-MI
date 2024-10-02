@@ -38,6 +38,6 @@ L'utilisation de l'instance publique est entièrement gratuite : il n'y a aucune
 
 ## ![](https://github.com/aourednik/historical-basemaps/raw/master/img/historicalmaps-leaflet.png){: .fleft } Historical-basemaps
 
-[Historical boundaries](https://github.com/aourednik/historical-basemaps/tree/master) of world countries and cultural regions
-Collection of georeferenced boundaries of world countries and cultural regions for use in mapping historical data on global or continental scale.
-All maps are stored in the [geojson](https://github.com/aourednik/historical-basemaps/tree/master/geojson) format: single file per feature layer, human and machine readable.
+[Les limites historiques](https://github.com/aourednik/historical-basemaps/tree/master) des pays et des régions culturelles du monde.
+Une collection de limites géoréférencées des pays et des régions culturelles du monde pour la cartographie des données historiques à l'échelle mondiale ou continentale.
+Toutes les cartes sont stockées au format [geojson](https://github.com/aourednik/historical-basemaps/tree/master/geojson) : un fichier par couche d'entités.
