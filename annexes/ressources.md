@@ -36,3 +36,8 @@ Pour obtenir la liste complète des visualisations disponibles, consultez le [ca
 [OpenFreeMap](https://openfreemap.org/) vous permet d'afficher gratuitement des cartes personnalisées sur votre site Web et vos applications.
 L'utilisation de l'instance publique est entièrement gratuite : il n'y a aucune limite au nombre de vues de carte ou de requêtes. Il n'y a pas d'inscription, pas de base de données d'utilisateurs, pas de clés API et pas de cookies. Notre objectif est de couvrir les frais de fonctionnement de notre instance publique par des dons.
 
+## ![](https://github.com/aourednik/historical-basemaps/raw/master/img/historicalmaps-leaflet.png){: .fleft } Historical-basemaps
+
+[Historical boundaries](https://github.com/aourednik/historical-basemaps/tree/master) of world countries and cultural regions
+Collection of georeferenced boundaries of world countries and cultural regions for use in mapping historical data on global or continental scale.
+All maps are stored in the [geojson](https://github.com/aourednik/historical-basemaps/tree/master/geojson) format: single file per feature layer, human and machine readable.
