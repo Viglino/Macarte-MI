@@ -41,3 +41,7 @@ L'utilisation de l'instance publique est entièrement gratuite : il n'y a aucune
 [Les limites historiques](https://github.com/aourednik/historical-basemaps/tree/master) des pays et des régions culturelles du monde.
 Une collection de limites géoréférencées des pays et des régions culturelles du monde pour la cartographie des données historiques à l'échelle mondiale ou continentale.
 Toutes les cartes sont stockées au format [geojson](https://github.com/aourednik/historical-basemaps/tree/master/geojson) : un fichier par couche d'entités.
+
+## ![GeoAwesome](https://geoawesome.com/wp-content/uploads/2022/02/Logo.svg){: .fleft } 
+
+Une [liste des 10 meilleures sources](https://geoawesome.com/eo-hub/list-of-top-10-sources-of-free-remote-sensing-data/) de données de télédétection gratuites 
