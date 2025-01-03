@@ -137,3 +137,6 @@ Yaïves Ferland. Les défis théoriques posés à la cartographie mènent à la 
 
 ## Bischoff et al., 2024
 collectif. Écrire avec les cartes. Epistémocritique, Études réunies par Liouba Bischoff, Raphaël Luis et Julien Nègre, 2024 - [voir en ligne](https://epistemocritique.org/ecrire-avec-les-cartes/)
+
+## Bahoken, 2021
+Bahoken. La représentation graphique de narrations de mobilités spatiales, aspects formels, In: Comment cartographier les récits. IFSTTAR/AME/SPLOTT, 2021 - [voir en ligne](https://hal.science/hal-03346211)
