@@ -59,6 +59,7 @@ Boris Mericskay. Géovisualisation de données sur le Web. Ecole GeoViz Aussois.
 
 ## Mericskay, 2020
 Boris Mericskay. Sémiologie graphique. Université Rennes 2. 2020 [PDF](https://sites-formations.univ-rennes2.fr/mastersigat/Cours/CM_SemiologieGraphique_2020.pdf)
+Boris Mericskay. Sémiologie graphique. Université Rennes 2. 2020 [PDF](https://sites-formations.univ-rennes2.fr/mastersigat/Cours/CM_SemiologieGraphique.pdf)
 
 ## Palsky, 2017
 Gilles Palsky, La Sémiologie graphique de Jacques Bertin a cinquante ans ! visionscarto. 2017 - [voir en ligne](https://visionscarto.net/la-semiologie-graphique-a-50-ans)
