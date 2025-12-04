@@ -26,6 +26,9 @@ Parmi la liste des réutilisations sur [data.gouv.fr](https://www.data.gouv.fr/f
 ## Les géographies imaginaires
 Exposition interactive de la BnF - [voir en ligne](https://fantasy.bnf.fr/fr/transmettre/les-geographies-imaginaires/)
 
+## Gallica BnF
+[![](https://gallica.bnf.fr/ark:/12148/bpt6k34128807/f1.highres){: .fleft }](https://gallica.bnf.fr/ark:/12148/bpt6k34128807) La géographie vivante apprise par l'image, l'observation, la carte / Onésime Reclus
+
 ## Quand le design éclaire la data
 Exposition dédiée à la datavisualisation lors de la semaine [Aux data citoyens](https://www.iledefrance.fr/aux-data-citoyens-participez-la-1re-semaine-francilienne-de-la-donnee) à l'Institut Paris Région - [voir en ligne](https://view.genial.ly/6501aa4be030350011cb9d30)   
 Podcast de la table ronde [Quand le design éclaire la data](https://podcast.ausha.co/debats-rencontres-ipr/quand-le-design-eclaire-la-data)   
