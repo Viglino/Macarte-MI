@@ -18,8 +18,11 @@ image: /assets/banner/macarte.jpg
 > {: .right }
 > [Fernandez-Falcon et al. (1993)](/Macarte-MI/annexes/biblio#fernandez-falcon-et-al-1993)
 
-Les cartes et l'information géographique servent à exprimer et à transmettre les connaissances relatives à l'espace terrestre et à notre cadre de vie. Elles constitue la base de la planification et des décisions de toutes sortes. 
+A la fois objet technique et artistique, la carte occupe notre quotidien sans que nous n'y pensions vraiment : 
+la carte est un langage commun qui permet de comprendre son territoire, de débattre, de construire collectivement et pour transmettre les connaissances relatives à l'espace terrestre et à notre cadre de vie.  
 Elles contribuent ainsi à éclairer les choix et les décisions qui sont pris quotidiennement, aussi bien par les collectivités que par les individus.
+Elle revêt un formidable pouvoir pour l'élaboration collective de la démocratie et de la souveraineté et pour mieux prendre en compte les défis de nos sociétés. 
+Elles constitue la base de la planification et des décisions de toutes sortes. 
 
 Avec le développement du [Géoweb](https://fr.wikipedia.org/wiki/Geoweb) et des cartes en ligne, les visualiseurs de cartes vous offrent différentes options pour **utiliser et afficher l'information géographique**. Ainsi, depuis 2006, sur le [Géoportail](https://www.geoportail.gouv.fr/), vous pouvez consulter et analyser les données sur fond de cartes nationales et de photographies aériennes actuelles ou historiques. Vous pouvez également télécharger les données via les [Géoservices](https://geoservices.ign.fr/) mis à disposition par l'Institut National de l'Information Géographique et Forestière (IGN).
 
